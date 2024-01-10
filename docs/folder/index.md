@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Folder
 has_children: true
 has_toc: true
