@@ -7,3 +7,5 @@ parent: Apps
 # Bear
 
 Bear is a markdown editor for Apple devices.
+
+[Official website](https://bear.app)
