@@ -9,6 +9,8 @@ has_toc: true
 
 This is the index page
 
+{:toc}
+
 ## Heading 2
 
 ### Heading 3
