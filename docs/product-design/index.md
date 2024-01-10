@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Folder
+title: Product Design
 has_children: true
 has_toc: true
 ---
 
-# Folder
+# Product Design
 
 This is the index page
 

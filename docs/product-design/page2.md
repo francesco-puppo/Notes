@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Settings vs preferences
+parent: Product Design
 ---
 
 # Difference between settings and preferences 
