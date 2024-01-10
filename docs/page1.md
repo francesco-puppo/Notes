@@ -1,6 +1,6 @@
 ---
 layout: default
-Title: Page 1
+title: Page 1
 ---
 
 # Page 1
