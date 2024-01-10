@@ -1,6 +1,7 @@
 ---
-title: Folder
-parent: index.md
+layout: default
+title: Page 2
+parent: Folder
 ---
 
 # Page 2
