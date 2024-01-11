@@ -1,3 +1,6 @@
 # To do
 
-- [ ] Install Jeckyll and the other thing that was needed
+- [x] Install Jekyll and other requirements
+- [ ] Design support button
+- [ ] Link support button
+- [ ] Add *Edit in Github* button to pages
