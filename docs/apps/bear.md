@@ -2,6 +2,7 @@
 layout: default
 title: Bear
 parent: Note taking
+grand_parent: Apps
 ---
 
 # Bear

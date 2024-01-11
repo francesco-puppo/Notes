@@ -2,6 +2,7 @@
 layout: default
 title: Notion
 parent: Note taking
+grand_parent: Apps
 ---
 
 # Notion
