@@ -114,7 +114,7 @@ li.nav-list-item.active,
     margin-top: 60px;
 }
 
-.foonotes::before {
+.footnotes::before {
     display: block;
     content: 'Footnotes';
     font-family: 'Silkscreen', sans-serif;
@@ -149,4 +149,12 @@ a.search-result * {
 
 hr {
     background-color: var(--five);
+}
+
+/***
+Lists
+***/
+
+.main-content ol > li::before {
+    color: var(--three);
 }
