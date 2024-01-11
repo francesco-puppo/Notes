@@ -117,3 +117,8 @@ li.nav-list-item.active,
     color: var(--two);
 }
 
+.highlight, 
+pre.highlight {
+    background: var(--markdown);
+    color: var(--content);
+}
