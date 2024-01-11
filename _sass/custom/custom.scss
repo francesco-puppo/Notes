@@ -66,8 +66,17 @@ a:not([class]):hover {
     text-decoration-color: var(--four);
     color: var(--four);
 }
+
+.site-nav a {
+    font-size: 1rem !important;
+}
+
+.nav-list .nav-list-item > .nav-list .nav-list-item .nav-list-link {
+    font-weight: 500;
+    color: var(--one);
+}
  
-.nav-list .nav-list-item .nav-list-link.active,
+.nav-list-link.active,
 li.nav-list-item.active {
     color: var(--three);
     background-image: none;
