@@ -179,8 +179,12 @@ CODE BLOCK
 
 .highlight, 
 pre.highlight {
-    background: var(--markdown);
+    background: var(--five);
     color: var(--content);
+}
+
+:not(pre, figure) > code {
+  background: var(--five);
 }
 
 /***
