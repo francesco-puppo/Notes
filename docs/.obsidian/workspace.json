@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/index.md.md",
+                "file": "templates/page.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/index.md.md",
+                "file": "templates/page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/index.md.md",
+                "file": "templates/page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/index.md.md"
+                "file": "templates/page.md"
               }
             }
           },
@@ -172,12 +172,14 @@
   },
   "active": "e96d66ab131bfe16",
   "lastOpenFiles": [
-    "templates/page.md",
     "templates/index.md",
+    "work/Untitled.md",
+    "courses/index.md.md",
+    "work",
+    "templates/page.md",
     "product-design/my-product-design-principles.md",
     "product-design/index.md",
     "templates",
-    "courses/index.md.md",
     "apps/bear.md",
     "courses",
     "product-design/settings-vs-preferences.md"
