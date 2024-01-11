@@ -8,6 +8,7 @@ COLOURS
     --three: #BE3144;
     --four: #F05941;
     --five: #f1f5f9;
+    --shadow-one: #959da533 0px 8px 24px
 }
 
 @media (prefers-color-scheme: dark) {
@@ -18,6 +19,7 @@ COLOURS
     --three: #f16073;
     --four: #F05941;
     --five: #3b1f45;
+    --shadow-one: #959da533 0px 8px 24px
   }
 }
 
@@ -220,4 +222,14 @@ BREADCRUMBS
 
 .breadcrumb-nav-list-item::after {
     color: var(--five);
+}
+
+/***
+FOOTER
+***/
+
+.site-footer div {
+  background: var(--five);
+  color: var(--one);
+  box-shadow: var(--shadow-one);
 }

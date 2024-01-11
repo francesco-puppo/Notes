@@ -32,3 +32,7 @@ body {
 	font-family: system-ui, -apple-system, blinkmacsystemfont, "Segoe UI", roboto, "Helvetica Neue", arial, sans-serif, "Segoe UI Emoji";
 }
 ```
+
+## Resources
+
+- [Beautiful CSS shadows](https://getcssscan.com/css-box-shadow-examples)
