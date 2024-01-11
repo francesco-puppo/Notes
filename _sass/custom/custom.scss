@@ -30,12 +30,14 @@ h6 {
 
 a,
 .nav-list .nav-list-item .nav-list-expander {
-    color: var(--three);
+    color: var(--one);
 }
-.nav-list .nav-list-item > .nav-list .nav-list-item .nav-list-link {
-    color: var(--theme);
+.nav-list .nav-list-item .nav-list-link:hover, 
+.nav-list .nav-list-item .nav-list-link.active {
+    color: var(--three);
     background-image: none;
-    background-color: var(--two);
+    background-color: transparent;
+    font-weight: 700;
 }
 
 .main-content .anchor-heading svg {
