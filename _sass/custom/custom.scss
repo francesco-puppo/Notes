@@ -190,6 +190,7 @@ pre.highlight {
 }
 
 :not(pre, figure) > code {
+  font-size: 0.9rem;
     background: var(--five);
     border: 1px solid var(--five);
     padding: 2px 4px;
