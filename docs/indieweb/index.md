@@ -7,6 +7,10 @@ has_toc: true
 
 # IndieWeb
 
+> The IndieWeb is a people-focused alternative to the “corporate web”. [^indie]
+
+[^indie]: [Source](https://indieweb.org/)
+
 ## User friendly resources
 
 For real. Nothing complicated [^arcade].
