@@ -37,8 +37,7 @@ a,
     color: var(--one);
 }
  
-.nav-list .nav-list-item .nav-list-link.active,
-.nav-list .nav-list-item > .nav-list .nav-list-item .nav-list-link {
+.nav-list .nav-list-item .nav-list-link.active {
     color: var(--three);
     background-image: none;
     background-color: transparent;
