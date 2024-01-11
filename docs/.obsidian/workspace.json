@@ -25,7 +25,11 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "ux/resources.md",
+=======
+                "file": "templates/page.md",
+>>>>>>> main
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +102,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "ux/resources.md",
+=======
+                "file": "templates/page.md",
+>>>>>>> main
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +123,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "ux/resources.md",
+=======
+                "file": "templates/page.md",
+>>>>>>> main
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "ux/resources.md"
+=======
+                "file": "templates/page.md"
+>>>>>>> main
               }
             }
           },
@@ -172,21 +188,33 @@
   },
   "active": "e96d66ab131bfe16",
   "lastOpenFiles": [
+    "templates/index.md",
+    "product-design/settings-vs-preferences.md",
+    "product-design/my-product-design-principles.md",
+    "product-design/index.md",
+    "work/index.md",
     "ux/index.md",
     "ux/resources.md",
     "apps/bear.md",
     "apps/text-editors.md.md",
     "apps/text-editors.md",
     "templates/page.md",
+<<<<<<< HEAD
     "templates/index.md",
     "product-design/settings-vs-preferences.md",
     "product-design/my-product-design-principles.md",
     "product-design/index.md",
     "work/index.md",
+=======
+>>>>>>> main
     "ux",
     "courses/index.md.md",
     "work",
     "templates",
+<<<<<<< HEAD
+=======
+    "apps/bear.md",
+>>>>>>> main
     "courses"
   ]
 }
