@@ -237,6 +237,8 @@ FOOTER
 ***/
 
 .site-footer a {
+  display: block;
+  text-decoration: none;
   background: var(--five);
   color: var(--one);
   box-shadow: var(--shadow-one);
@@ -251,8 +253,12 @@ FOOTER
   border-radius: 4px;
 }
 
+.site-footer a:hover {
+  color: var(--theme);
+}
+
 .site-footer a strong {
-  color: var(--one);
+  color: var(--four);
   font-weight: 700;
 }
 
