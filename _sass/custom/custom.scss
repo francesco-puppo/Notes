@@ -216,6 +216,14 @@ a.search-result *,
     background-color: var(--theme);
 }
 
+.search-result-doc .search-result-icon {
+  color: var(--two);
+}
+
+.search-result:hover, .search-result.active {
+  color: var(--three);
+}
+
 /***
 BREADCRUMBS
 ***/
