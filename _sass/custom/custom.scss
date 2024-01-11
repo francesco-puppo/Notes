@@ -17,7 +17,7 @@ COLOURS
     --two: #dc3f6e;
     --three: #f16073;
     --four: #F05941;
-    --five: #2f1838;
+    --five: #3b1f45;
   }
 }
 
@@ -188,7 +188,9 @@ pre.highlight {
 }
 
 :not(pre, figure) > code {
-  background: var(--five);
+    background: var(--five);
+    border: 1px solid var(--five);
+    padding: 2px 4px;
 }
 
 /***
