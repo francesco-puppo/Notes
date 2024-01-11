@@ -232,4 +232,16 @@ FOOTER
   background: var(--five);
   color: var(--one);
   box-shadow: var(--shadow-one);
+  border-radius: 8px;
+  padding: 0.8rem;
+  transition: all 0.25s ease-in-out;
+}
+
+.site-footer div:hover {
+  background: var(--four);
+  color: var(--theme);
+}
+
+.site-footer div a {
+  font-weight: 700;
 }
