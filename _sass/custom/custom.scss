@@ -1,9 +1,11 @@
 :root {
+    --theme: #FFFFFF;
     --one: #22092C;
     --two: #872341;
     --three: #BE3144;
-    --foru: #F05941;
+    --four: #F05941;
 }
+
 @import url('https://fonts.googleapis.com/css2?family=Days+One&display=swap');
 
 * {
@@ -18,12 +20,21 @@ h4,
 h5,
 h6 {
     font-family: 'Days One', sans-serif;
+    color: var(--two);
+    font-weight: 700;
+}
+
+.side-bar {
+    background-color: var(--theme);
 }
 
 a,
 .nav-list .nav-list-item .nav-list-expander {
-    color: var(--three)
+    color: var(--three);
 }
-a.nav-list-link.active {
-    color: red;
+.nav-list .nav-list-item > .nav-list .nav-list-item .nav-list-link {
+    color: var(--theme);
+    background-image: none;
+    background-color: var(--two);
 }
+
