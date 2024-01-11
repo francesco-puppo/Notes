@@ -15,9 +15,16 @@ For real. Nothing complicated[^arcade].
 
 - [Blot](https://blot.im)
 	- Build your website from a simple folder containing just text and image files
+	- My [personal site](https://iamfran.com) runs on it
 
 ## Websites to follow
 - [Crash the Arcade](https://crashthearcade.com/)
 
 ## Static site generators
-- [Static site generators](https://jamstack.org/generators/)
+
+Most of these, if not all, cannot be considered entry-level, since they require a technical background of some form. 
+
+- [Static site generators (List)](https://jamstack.org/generators/)
+- Hugo
+- Blot
+- Jekyll

@@ -1,12 +1,8 @@
 ---
 layout: default
-title: Books
+title: File management
 has_children: true
 has_toc: true
 ---
 
-# Books
-
-## Resources 
-
-- Standard books
+# File management 
