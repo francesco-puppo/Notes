@@ -4,6 +4,7 @@
     --two: #872341;
     --three: #BE3144;
     --four: #F05941;
+    --five: #f1f5f9;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -13,6 +14,7 @@
     --two: #c3305c;
     --three: #e5495d;
     --four: #F05941;
+    --code-bg: #2f1838;
   }
 }
 
@@ -83,5 +85,18 @@ li.nav-list-item.active {
 
 .main-content .anchor-heading svg {
     color: var(--four)
+}
+
+.footnotes {
+    padding: 1rem;
+    background-color: var(--five);
+    margin-top: 60px;
+}
+
+.foonotes::before {
+    content: 'Footnotes';
+    font-family: 'Silkscreen', sans-serif;
+    font-size: 1rem;
+    color: var(--two);
 }
 
