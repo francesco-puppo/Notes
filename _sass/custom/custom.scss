@@ -87,6 +87,7 @@ li.nav-list-item.active {
     font-weight: 700;
 }
 
+.nav-list .nav-list-item > .nav-list .nav-list-item .nav-list-link:hover,
 .nav-list .nav-list-item .nav-list-expander:hover,
 .nav-list .nav-list-item .nav-list-link:hover {
     background-image: none;
