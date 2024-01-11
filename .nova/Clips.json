@@ -7,6 +7,10 @@
     {
       "content" : "---\nlayout: default\ntitle: \nhas_children: true\nhas_toc: true\n---",
       "name" : "Index"
+    },
+    {
+      "content" : "# Notion\n\n\n\n## What makes it unique\n\n\n\n## What works well\n\n- \n\n## What could be improved\n\n- \n\n## Why use it\n\n- \n\n## Why not use it\n\n- \n\n## More\n\n[Official website]()",
+      "name" : "App"
     }
   ]
 }
