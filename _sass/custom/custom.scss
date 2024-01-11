@@ -80,7 +80,8 @@ a:not([class]):hover {
 }
  
 .nav-list-link.active,
-li.nav-list-item.active {
+li.nav-list-item.active,
+.nav-list .nav-list-item .nav-list-link.active {
     color: var(--three);
     background-image: none;
     background-color: transparent;
