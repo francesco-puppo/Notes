@@ -10,6 +10,6 @@ parent: IndieWeb
 
 It's as easy as that. It reads any format you might want to write your content into [^format] and it syncs with either Dropbox, Git, or Google Drive.
 
-[^format]: And this includes .txt, .md, .rtf, .docx, .odt, .gdoc, .html, .org
+[^format]: And this includes `.txt`, `.md`, `.rtf`, `.docx`, `.odt`, `.gdoc`, `.html`, and `.org`
 
 [Official website](https://blot.im/)
