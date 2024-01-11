@@ -183,12 +183,13 @@ SEARCH
 ***/
 
 .search-input,
-a.search-result * {
+a.search-result *,
+.search-input::placeholder {
     background: transparent;
     color: var(--one);
 }
 
-.search-label {
+.search-label svg {
     color: var(--four);
 }
 
