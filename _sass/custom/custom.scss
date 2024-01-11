@@ -253,8 +253,8 @@ FOOTER
   border-radius: 4px;
 }
 
-.site-footer a:hover {
-  color: var(--theme);
+.site-footer a:hover strong{
+  color: var(--one);
 }
 
 .site-footer a strong {
