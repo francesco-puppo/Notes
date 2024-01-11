@@ -52,6 +52,10 @@ a,
     color: var(--four);
 }
 
+.nav-list .nav-list-item .nav-list-expander:hover svg {
+    color: var(--four);
+}
+
 .main-content .anchor-heading svg {
     color: var(--four)
 }
