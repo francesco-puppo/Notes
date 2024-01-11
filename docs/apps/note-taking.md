@@ -2,6 +2,7 @@
 layout: default
 title: Note taking
 parent: Apps
+has_toc: true
 has_children: yes
 ---
 
