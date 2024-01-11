@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "indieweb/index.md",
+                "file": "coding/css.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "indieweb/index.md",
+                "file": "coding/css.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "indieweb/index.md",
+                "file": "coding/css.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "indieweb/index.md"
+                "file": "coding/css.md"
               }
             }
           },
@@ -159,6 +159,10 @@
   },
   "active": "49ee68b360b0cf7e",
   "lastOpenFiles": [
+    "coding/index.md",
+    "coding/css.md",
+    "indieweb/index.md",
+    "coding",
     "product-design/index.md",
     "ux/index.md",
     "ux/clarity-trumps-consistency.md",
@@ -169,7 +173,6 @@
     "work/index.md",
     "apps/text-editors.md",
     "courses/index.md.md",
-    "indieweb/index.md",
     "apps/bear.md",
     "indieweb",
     "zzz_templates/page.md",
@@ -188,7 +191,6 @@
     "apps/text-editors.md.md",
     "zzz_templates/index.md",
     "product-design/settings-vs-preferences.md",
-    "ux",
-    "work"
+    "ux"
   ]
 }
