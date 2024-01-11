@@ -96,6 +96,7 @@ li.nav-list-item.active {
 }
 
 .foonotes::before {
+    display: block;
     content: 'Footnotes';
     font-family: 'Silkscreen', sans-serif;
     font-size: 1rem;
