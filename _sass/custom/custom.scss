@@ -51,6 +51,14 @@ h5 {
     font-family: 'Bungee Spice', sans-serif;
     color: var(--two);
     font-weight: 700;
+    font-palette: my-palette
+}
+
+@font-palette-values my-palette {
+  font-family: "Bungee Spice";
+  override-colors:
+    0 var(--two),
+    1 var(--three);
 }
 
 hr {
