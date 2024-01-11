@@ -192,6 +192,7 @@ a.search-result * {
     color: var(--four);
 }
 
-.search-results {
+.search-results,
+.search-active .search-input {
     background-color: var(--two);
 }
