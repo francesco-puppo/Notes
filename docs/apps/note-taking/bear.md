@@ -3,6 +3,7 @@ layout: default
 title: Bear
 parent: Note taking
 ---
+
 # Bear
 
 Bear is a markdown editor for Apple devices.
