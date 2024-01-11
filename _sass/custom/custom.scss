@@ -29,15 +29,16 @@ h1,
 h2,
 h3,
 h4,
-h5,
-h6 {
+h5 {
     font-family: 'Bungee', sans-serif;
     color: var(--two);
     font-weight: 700;
 }
 
-.text-delta {
+.text-delta,
+h6 {
     font-family: 'Silkscreen', sans-serif;
+    font-size: 1rem !important;
 }
 
 .side-bar {
@@ -50,14 +51,15 @@ a,
 }
 
 a:not([class]) {
-    text-decoration-color: var(--three);
+    text-decoration-color: var(--two);
 }
 
 a:not([class]):hover {
     text-decoration-color: var(--four);
 }
  
-.nav-list .nav-list-item .nav-list-link.active {
+.nav-list .nav-list-item .nav-list-link.active,
+li.nav-list-item.active {
     color: var(--three);
     background-image: none;
     background-color: transparent;
