@@ -5,7 +5,7 @@ has_children: true
 has_toc: true
 ---
 
-# Product Design
+# Product design
 
 This is the index page
 

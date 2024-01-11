@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "apps/bear.md",
+                "file": "product-design/index.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "apps/bear.md",
+                "file": "product-design/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "apps/bear.md",
+                "file": "product-design/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "apps/bear.md"
+                "file": "product-design/index.md"
               }
             }
           },
@@ -159,14 +159,23 @@
   },
   "active": "49ee68b360b0cf7e",
   "lastOpenFiles": [
+    "ux/index.md",
+    "ux/clarity-trumps-consistency.md",
+    "ux/resources.md",
+    "work/productivity.md",
     "product-design/my-product-design-principles.md",
-    "templates/page.md",
-    "books/index.md",
+    "product-design/software-should-unbloat-over-time.md",
+    "work/index.md",
+    "apps/text-editors.md",
     "courses/index.md.md",
+    "indieweb/index.md",
+    "apps/bear.md",
+    "indieweb",
+    "zzz_templates/page.md",
+    "books/index.md",
     "books/non-fiction.md",
     "product-design/index.md",
     "product-design/fast-software-best-software.md",
-    "apps/text-editors.md",
     "_inbox/mac-as-a-place.md",
     "_inbox/untitled file",
     "_inbox/pen-and-pencile.md",
@@ -174,19 +183,12 @@
     "untitled folder",
     "books/untitled file",
     "books",
-    "ux/clarity-trumps-consistency.md",
     "ux/untitled file",
     "product-design/untitled file",
-    "product-design/software-should-unbloat-over-time.md",
-    "ux/resources.md",
-    "ux/index.md",
-    "apps/bear.md",
     "apps/text-editors.md.md",
-    "templates/index.md",
+    "zzz_templates/index.md",
     "product-design/settings-vs-preferences.md",
-    "work/index.md",
     "ux",
-    "work",
-    "templates"
+    "work"
   ]
 }

@@ -21,9 +21,11 @@ Most of the above can also be used for writing in markdown, but these apps are s
 
 - [iA Writer](https://ia.net/writer)
 	- The most beautiful text editor for macOS
+	- Supports wikilinks
 	- I often [mention it](https://iamfran.com/search?q=ia+writer) on my blog
 - [Obsidian](https://obsidian.md/)
-- MarkEdit
+	- Supports wikilinks
+- [MarkEdit](https://github.com/MarkEdit-app/MarkEdit)
 	- A very simple and fast editor
 	- No library support, but it's great to quickly edit single files
-- Typora
+- [Typora](https://typora.io/)
