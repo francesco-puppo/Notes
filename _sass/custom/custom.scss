@@ -268,7 +268,25 @@ FOOTER
   border-bottom: solid 1px var(--four);
 }
 
+/***
+PAGE FOOTER
+***/
 
+footer p.text-small.text-grey-dk-100.mb-0,
+footer p.text-small.text-grey-dk-000.mb-0.mr-2 {
+  color: var(--one);
+}
+
+footer p.text-small.text-grey-dk-100.mb-0 a {
+    background: var(--two);
+    padding: 8px 16px;
+    position: relative;
+    font-size: 1rem;
+    font-family: system-ui, -apple-system, blinkmacsystemfont, "Segoe UI", roboto, "Helvetica Neue", arial, sans-serif, "Segoe UI Emoji";
+    font-weight: 500;
+    border-radius: 4px;
+    transition: all 0.25s ease-in-out;
+}
 
 /***
 MENU
