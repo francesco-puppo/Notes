@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bear
+title: Notion
 parent: Note taking
 ---
 
