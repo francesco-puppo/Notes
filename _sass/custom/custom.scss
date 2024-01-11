@@ -202,3 +202,11 @@ a.search-result *,
 .search-active .search-input {
     background-color: var(--two);
 }
+
+/***
+BREADCRUMBS
+***/
+
+.breadcrumb-nav-list-item::after {
+    color: var(--five);
+}
