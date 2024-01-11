@@ -253,14 +253,17 @@ FOOTER
   border-radius: 4px;
 }
 
+.site-footer a strong {
+  color: var(--four);
+  font-weight: 700;
+  transition: all 0.25s ease-in-out;
+}
+
 .site-footer a:hover strong{
   color: var(--theme);
 }
 
-.site-footer a strong {
-  color: var(--four);
-  font-weight: 700;
-}
+
 
 /***
 MENU
