@@ -48,25 +48,9 @@ h2,
 h3,
 h4,
 h5 {
-    font-family: 'Bungee Spice', sans-serif;
+    font-family: 'Bungee', sans-serif;
     font-weight: 700;
     font-palette: my-palette;
-}
-
-@font-palette-values my-palette {
-  font-family: "Bungee Spice";
-  override-colors:
-    0 #872341,
-    1 #BE3144;
-}
-
-@media (prefers-color-scheme: dark) {
-@font-palette-values my-palette {
-  font-family: "Bungee Spice";
-  override-colors:
-    0 #dc3f6e;
-    1 #f16073;
-}
 }
 
 hr {
