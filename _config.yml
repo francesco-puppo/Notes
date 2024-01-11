@@ -2,6 +2,8 @@ title: Fran's Notes
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
+favicon_ico: "/assets/favicon/favicon.ico"
+
 url: https://francesco-puppo.github.io/notes
 
 # aux_links:
@@ -9,3 +11,4 @@ url: https://francesco-puppo.github.io/notes
 
 # plugins:
 # - jekyll-target-blank
+
