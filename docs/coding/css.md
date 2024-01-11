@@ -6,7 +6,9 @@ parent: Coding
 
 # CSS
 
-## Dark theme
+## Snippets
+
+### Dark theme
 
 ```css
 @media (prefers-color-scheme: dark) {
@@ -19,5 +21,14 @@ parent: Coding
     --code-text: #508ec5;
     --code-bg: #041d36;
   }
+}
+```
+
+
+### Default fonts
+
+```css
+body {
+	font-family: system-ui, -apple-system, blinkmacsystemfont, "Segoe UI", roboto, "Helvetica Neue", arial, sans-serif, "Segoe UI Emoji";
 }
 ```

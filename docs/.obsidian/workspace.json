@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zzz_templates/index.md",
+                "file": "coding/css.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zzz_templates/index.md",
+                "file": "coding/css.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zzz_templates/index.md",
+                "file": "coding/css.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zzz_templates/index.md"
+                "file": "coding/css.md"
               }
             }
           },
@@ -159,8 +159,8 @@
   },
   "active": "49ee68b360b0cf7e",
   "lastOpenFiles": [
-    "zzz_templates/page.md",
     "zzz_templates/index.md",
+    "zzz_templates/page.md",
     "courses/index.md.md",
     "coding/index.md",
     "books/index.md",
