@@ -133,11 +133,16 @@ pre.highlight {
     border-bottom: 1px solid var(--five);
 }
 
-.search-input {
+.search-input,
+a.search-result * {
     background: transparent;
     color: var(--one);
 }
 
 .search-label {
     color: var(--four);
+}
+
+.search-results {
+    background-color: var(--two);
 }
