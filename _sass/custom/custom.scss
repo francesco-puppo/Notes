@@ -184,7 +184,8 @@ SEARCH
 
 .search-input,
 a.search-result *,
-.search-input::placeholder {
+.search-input::placeholder,
+.search-input:focus + .search-label .search-icon {
     background: transparent;
     color: var(--one);
 }
