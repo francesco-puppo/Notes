@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/page.md",
+                "file": "ux/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/page.md",
+                "file": "ux/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/page.md",
+                "file": "ux/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/page.md"
+                "file": "ux/Untitled.md"
               }
             }
           },
@@ -172,11 +172,13 @@
   },
   "active": "e96d66ab131bfe16",
   "lastOpenFiles": [
+    "templates/page.md",
+    "ux/Untitled.md",
+    "ux",
     "templates/index.md",
     "work/Untitled.md",
     "courses/index.md.md",
     "work",
-    "templates/page.md",
     "product-design/my-product-design-principles.md",
     "product-design/index.md",
     "templates",
