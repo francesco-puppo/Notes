@@ -288,6 +288,11 @@ footer p.text-small.text-grey-dk-100.mb-0 a {
     transition: all 0.25s ease-in-out;
 }
 
+footer p.text-small.text-grey-dk-100.mb-0 a:hover {
+  color: var(--one);
+  background: var(--two);
+}
+
 /***
 MENU
 ***/
