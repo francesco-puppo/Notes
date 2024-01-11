@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Title
-parent: Product Design
+parent: 
 nav_exclude: "true"
 ---
 
