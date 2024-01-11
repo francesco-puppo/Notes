@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Apps
-has_children: yes
+has_children: true
 has_toc: true
 ---
 
