@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e96d66ab131bfe16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "apps/text-editors.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "apps/text-editors.md",
+                "file": "apps/bear.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "apps/text-editors.md",
+                "file": "apps/bear.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "apps/text-editors.md"
+                "file": "apps/bear.md"
               }
             }
           },
@@ -170,35 +157,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e96d66ab131bfe16",
+  "active": "49ee68b360b0cf7e",
   "lastOpenFiles": [
+    "product-design/my-product-design-principles.md",
+    "templates/page.md",
+    "books/index.md",
+    "courses/index.md.md",
+    "books/non-fiction.md",
+    "product-design/index.md",
+    "product-design/fast-software-best-software.md",
+    "apps/text-editors.md",
     "_inbox/mac-as-a-place.md",
     "_inbox/untitled file",
     "_inbox/pen-and-pencile.md",
     "_inbox",
     "untitled folder",
-    "books/non-fiction.md",
     "books/untitled file",
-    "books/index.md",
     "books",
     "ux/clarity-trumps-consistency.md",
     "ux/untitled file",
-    "product-design/fast-software-best-software.md",
     "product-design/untitled file",
     "product-design/software-should-unbloat-over-time.md",
     "ux/resources.md",
     "ux/index.md",
     "apps/bear.md",
     "apps/text-editors.md.md",
-    "apps/text-editors.md",
-    "templates/page.md",
     "templates/index.md",
     "product-design/settings-vs-preferences.md",
-    "product-design/my-product-design-principles.md",
-    "product-design/index.md",
     "work/index.md",
     "ux",
-    "courses/index.md.md",
     "work",
     "templates"
   ]

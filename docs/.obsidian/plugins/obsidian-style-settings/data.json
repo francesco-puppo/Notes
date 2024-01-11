@@ -1,0 +1,11 @@
+{
+  "Appearance-light@@card-layout-open-light": true,
+  "Appearance-dark@@card-layout-open-dark": true,
+  "Components@@outline-enhanced": true,
+  "Components@@CTA-BTN-enable": true,
+  "Components@@file-names-untrim": false,
+  "Components@@folder-font-bold": true,
+  "Components@@immersive-canvas": false,
+  "Components@@media-embed-card-border-off": false,
+  "Components@@setting-item-title-icon-remove": false
+}

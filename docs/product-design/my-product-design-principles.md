@@ -3,7 +3,6 @@ layout: default
 title: My product design principles
 parent: Product Design
 ---
-
 # My product design principles
 
 ## Good design is honest
