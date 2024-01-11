@@ -22,11 +22,11 @@ Bear is a markdown editor for Apple devices.
 
 - The sidebar can easily become messy and tags can be hard to read, since spaces or capital letters can’t be used
 
-## Why use it
+## It's for you if
 
+- Love well crafted, native apps
 
-
-## Why not use it
+## It's NOT for you if
 
 - If you prefer to *own* your files, even if it has great export features, Bear still maintains all files in a private library that is not integrated with the Finder 
 
