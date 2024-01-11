@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "work/index.md",
+                "file": "ux/resources.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "work/index.md",
+                "file": "ux/resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "work/index.md",
+                "file": "ux/resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "work/index.md"
+                "file": "ux/resources.md"
               }
             }
           },
@@ -170,20 +170,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3b3c5b94cdd6e9c6",
+  "active": "e96d66ab131bfe16",
   "lastOpenFiles": [
     "ux/index.md",
+    "ux/resources.md",
+    "apps/bear.md",
+    "apps/text-editors.md.md",
+    "apps/text-editors.md",
     "templates/page.md",
-    "ux",
     "templates/index.md",
-    "work/index.md",
-    "courses/index.md.md",
-    "work",
+    "product-design/settings-vs-preferences.md",
     "product-design/my-product-design-principles.md",
     "product-design/index.md",
+    "work/index.md",
+    "ux",
+    "courses/index.md.md",
+    "work",
     "templates",
-    "apps/bear.md",
-    "courses",
-    "product-design/settings-vs-preferences.md"
+    "courses"
   ]
 }
