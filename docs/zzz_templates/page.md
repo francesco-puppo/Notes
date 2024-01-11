@@ -2,7 +2,7 @@
 layout: default
 title: Title
 parent: 
-nav_exclude: "true"
+nav_exclude: true
 ---
 # Title
 

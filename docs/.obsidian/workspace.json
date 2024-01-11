@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coding/css.md",
+                "file": "zzz_templates/index.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coding/css.md",
+                "file": "zzz_templates/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coding/css.md",
+                "file": "zzz_templates/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coding/css.md"
+                "file": "zzz_templates/index.md"
               }
             }
           },
@@ -159,29 +159,31 @@
   },
   "active": "49ee68b360b0cf7e",
   "lastOpenFiles": [
+    "zzz_templates/page.md",
+    "zzz_templates/index.md",
+    "courses/index.md.md",
     "coding/index.md",
+    "books/index.md",
+    "books/non-fiction.md",
     "coding/css.md",
+    "apps/text-editors.md",
+    "apps/index.md",
+    "_inbox/pen-and-pencile.md",
+    "_inbox/mac-as-a-place.md",
     "indieweb/index.md",
+    "work/productivity.md",
+    "work/index.md",
     "coding",
     "product-design/index.md",
     "ux/index.md",
     "ux/clarity-trumps-consistency.md",
     "ux/resources.md",
-    "work/productivity.md",
     "product-design/my-product-design-principles.md",
     "product-design/software-should-unbloat-over-time.md",
-    "work/index.md",
-    "apps/text-editors.md",
-    "courses/index.md.md",
     "apps/bear.md",
     "indieweb",
-    "zzz_templates/page.md",
-    "books/index.md",
-    "books/non-fiction.md",
     "product-design/fast-software-best-software.md",
-    "_inbox/mac-as-a-place.md",
     "_inbox/untitled file",
-    "_inbox/pen-and-pencile.md",
     "_inbox",
     "untitled folder",
     "books/untitled file",
@@ -189,7 +191,6 @@
     "ux/untitled file",
     "product-design/untitled file",
     "apps/text-editors.md.md",
-    "zzz_templates/index.md",
     "product-design/settings-vs-preferences.md",
     "ux"
   ]
