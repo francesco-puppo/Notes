@@ -1,3 +1,28 @@
+:root {
+    --one: #22092C;
+    --two: #872341;
+    --three: #BE3144;
+    --foru: #F05941;
+}
+@import url('https://fonts.googleapis.com/css2?family=Days+One&display=swap');
+
+* {
+    font-family: 'DM Sans', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Days One', sans-serif;
+}
+
+a,
+.nav-list .nav-list-item .nav-list-expander {
+    color: var(--three)
+}
 a.nav-list-link.active {
     color: red;
 }

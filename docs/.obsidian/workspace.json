@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "product-design/index.md",
+                "file": "indieweb/index.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "product-design/index.md",
+                "file": "indieweb/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "product-design/index.md",
+                "file": "indieweb/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "product-design/index.md"
+                "file": "indieweb/index.md"
               }
             }
           },
@@ -159,6 +159,7 @@
   },
   "active": "49ee68b360b0cf7e",
   "lastOpenFiles": [
+    "product-design/index.md",
     "ux/index.md",
     "ux/clarity-trumps-consistency.md",
     "ux/resources.md",
@@ -174,7 +175,6 @@
     "zzz_templates/page.md",
     "books/index.md",
     "books/non-fiction.md",
-    "product-design/index.md",
     "product-design/fast-software-best-software.md",
     "_inbox/mac-as-a-place.md",
     "_inbox/untitled file",
