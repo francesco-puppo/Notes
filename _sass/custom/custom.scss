@@ -32,12 +32,17 @@ a,
 .nav-list .nav-list-item .nav-list-expander {
     color: var(--one);
 }
-.nav-list .nav-list-item .nav-list-link:hover, 
-.nav-list .nav-list-item .nav-list-link.active {
+ 
+.nav-list .nav-list-item .nav-list-link.active,
+.nav-list .nav-list-item > .nav-list .nav-list-item .nav-list-link {
     color: var(--three);
     background-image: none;
     background-color: transparent;
     font-weight: 700;
+}
+
+.nav-list .nav-list-item .nav-list-expander:hover {
+    background-image: none;
 }
 
 .main-content .anchor-heading svg {
