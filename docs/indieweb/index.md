@@ -9,7 +9,7 @@ has_toc: true
 
 ## User friendly resources
 
-For real. Nothing complicated[^arcade].
+For real. Nothing complicated [^arcade].
 
 [^arcade]: [The IndieWeb has a user experience problem](https://crashthearcade.com/post/5853/)
 
