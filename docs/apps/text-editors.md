@@ -17,6 +17,13 @@ parent: Apps
 
 ## Markdown
 
+Most of the above can also be used for writing in markdown, but these apps are specialised in that (which comes with a lot of benefits):
+
 - [iA Writer](https://ia.net/writer)
+	- The most beautiful text editor for macOS
+	- I often [mention it](https://iamfran.com/search?q=ia+writer) on my blog
+- [Obsidian](https://obsidian.md/)
 - MarkEdit
+	- A very simple and fast editor
+	- No library support, but it's great to quickly edit single files
 - Typora

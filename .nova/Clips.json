@@ -1,0 +1,12 @@
+{
+  "clips" : [
+    {
+      "content" : "---\nlayout: default\ntitle:\nparent: \n---",
+      "name" : "Page"
+    },
+    {
+      "content" : "---\nlayout: default\ntitle: \nhas_children: true\nhas_toc: true\n---",
+      "name" : "Index"
+    }
+  ]
+}
