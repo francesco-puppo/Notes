@@ -25,11 +25,12 @@ Bear is a markdown editor for Apple devices.
 
 ## It's for you if
 
-- Love well crafted, native apps
+- You love well crafted, native apps
+- Apple Notes doesn't satisfy you and you want something similar but more powerful and flexible
 
 ## It's NOT for you if
 
-- If you prefer to *own* your files, even if it has great export features, Bear still maintains all files in a private library that is not integrated with the Finder 
+- You prefer to *own* your files, even if it has great export features, Bear still maintains all files in a private library that is not integrated with the Finder 
 
 ## More
 

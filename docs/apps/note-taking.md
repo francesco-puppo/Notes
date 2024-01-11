@@ -11,5 +11,7 @@ has_children: true
 Note taking apps can be divided in:
 
 - Plain text editors
+	- Don't let the name fool you. A lot can be done with just plain text and some magic (see [Plain text files](/docs/file-management/plain-text-files))
 - Rich text editors
 - Block based editors
+	- The new kid on the block, with [Notion](/docs/apps/notion) and [Craft](/docs/apps/craft) on the front-line.
