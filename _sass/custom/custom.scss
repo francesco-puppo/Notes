@@ -228,7 +228,7 @@ BREADCRUMBS
 FOOTER
 ***/
 
-.site-footer div {
+.site-footer a {
   background: var(--five);
   color: var(--one);
   box-shadow: var(--shadow-one);
@@ -237,11 +237,12 @@ FOOTER
   transition: all 0.25s ease-in-out;
 }
 
-.site-footer div:hover {
+.site-footer a:hover {
   background: var(--four);
   color: var(--theme);
 }
 
-.site-footer div a {
+.site-footer a strong {
+  color: var(--one);
   font-weight: 700;
 }
