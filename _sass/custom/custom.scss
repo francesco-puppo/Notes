@@ -63,6 +63,7 @@ a:not([class]) {
 
 a:not([class]):hover {
     text-decoration-color: var(--four);
+    color: var(--four);
 }
  
 .nav-list .nav-list-item .nav-list-link.active,
