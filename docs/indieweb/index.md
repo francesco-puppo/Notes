@@ -26,5 +26,6 @@ Most of these, if not all, cannot be considered entry-level, since they require 
 
 - [Static site generators (List)](https://jamstack.org/generators/)
 - Hugo
-- Blot
+- [Blot](https://blot.im)
 - Jekyll
+	- For example, this website runs on Jekyll
