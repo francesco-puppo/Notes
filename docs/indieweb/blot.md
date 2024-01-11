@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Blot
-parent: Indie Web
+parent: IndieWeb
 ---
 
 # Blot
