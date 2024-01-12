@@ -8,6 +8,7 @@ COLOURS
     --three: #c43f51;
     --four: #F05941;
     --five: #f1f5f9;
+    --six: #ab949b;
     --shadow-one: rgba(0, 0, 0, 0.16) 0px 1px 4px;
 }
 
@@ -19,6 +20,7 @@ COLOURS
     --three: #f16073;
     --four: #F05941;
     --five: #3b1f45;
+    --six: #9c8089;
   }
 }
 
@@ -272,12 +274,12 @@ FOOTER
 PAGE FOOTER
 ***/
 
-footer p.text-small.text-grey-dk-100.mb-0,
-footer p.text-small.text-grey-dk-000.mb-0.mr-2 {
+.main-content footer p.text-small.text-grey-dk-100.mb-0,
+.main-content footer p.text-small.text-grey-dk-000.mb-0.mr-2 {
   color: var(--one);
 }
 
-footer p.text-small.text-grey-dk-100.mb-0 a {
+.main-content footer p.text-small.text-grey-dk-100.mb-0 a {
     background: var(--two);
     color: var(--theme);
     padding: 8px 16px;
@@ -290,13 +292,31 @@ footer p.text-small.text-grey-dk-100.mb-0 a {
 }
 
 
-footer p.text-small.text-grey-dk-100.mb-0 a:hover {
+.main-content footer p.text-small.text-grey-dk-100.mb-0 a:hover {
   background: var(--four);
 }
 
-footer p.text-small.text-grey-dk-100.mb-0 a i {
+.main-content footer p.text-small.text-grey-dk-100.mb-0 a i {
   color: var(--theme);
   margin-right: 8px;
+}
+
+.main-content footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+a#edit-this-page {
+    color: var(--six);
+    text-decoration: none;
+    border-bottom: solid 1px transparent;
+    transition: all 0.25s ease-in-out;
+}
+
+a#edit-this-page:hover {
+    color: var(--four);
+    border-bottom: solid 1px var(--four);
 }
 
 /***
