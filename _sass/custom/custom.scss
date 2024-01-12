@@ -28,7 +28,7 @@ COLOURS
 FONTS
 ***/
 
-@import url('https://fonts.googleapis.com/css2?family=Bungee&family=Sigmar&family=JetBrains+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800&family=Silkscreen:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bungee&family=Bakbak+One&family=JetBrains+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800&family=Silkscreen:wght@400;700&display=swap');
 
 /***
 GENERAL
@@ -51,9 +51,10 @@ h2,
 h3,
 h4,
 h5 {
-    font-family: 'Sigmar', sans-serif;
+    font-family: 'Bakbak One', sans-serif;
     font-weight: 700;
     color: var(--two);
+    text-transform: uppercase;
 }
 
 hr {
@@ -115,7 +116,8 @@ HEADER
 
 .site-title {
     color: var(--two);
-    font-family: 'Sigmar';
+    font-family: 'Bakbak One';
+    text-transform: uppercase;
 }
 
 .site-title:hover {
