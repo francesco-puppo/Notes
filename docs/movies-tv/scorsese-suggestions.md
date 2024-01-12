@@ -2,6 +2,7 @@
 layout: default
 title: Martin Scorsese's list of essential foreign films
 parent: Movies & TV shows
+nav_exclude: true
 ---
 
 # Martin Scorsese's list of essential foreign films
