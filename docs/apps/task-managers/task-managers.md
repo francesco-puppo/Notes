@@ -2,6 +2,8 @@
 layout: default
 title: Task managers
 parent: Apps
+has_children: true
+has_toc: true
 ---
 
 # Task managers
