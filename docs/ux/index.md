@@ -5,6 +5,6 @@ has_children: true
 has_toc: true
 ---
 
-# User experience
+# User Experience
 
 This is the index page
