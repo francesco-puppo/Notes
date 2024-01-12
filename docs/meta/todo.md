@@ -22,3 +22,4 @@ A list of stuff I have to do for this website.
 ### Content
 
 - [ ] Write README for GitHub
+- [ ] Write intro page
