@@ -79,7 +79,7 @@ h5 {
 }
 
 hr {
-    background-color: var(--theme-6);
+    background-color: var(--theme-3);
 }
 
 /* Links */
@@ -110,7 +110,7 @@ h6 {
 
 .footnotes {
     padding: 1rem;
-    background-color: var(--theme-6);
+    background-color: var(--theme-3);
     margin-top: 60px;
 }
 
@@ -127,12 +127,12 @@ HEADER
 ***/
 
 .site-header {
-    border-bottom: 1px solid var(--theme-6);
+    border-bottom: 1px solid var(--theme-3);
 }
 
 .main-header {
     background-color: transparent;
-    border-bottom: 1px solid var(--theme-6);
+    border-bottom: 1px solid var(--theme-3);
 }
 
 .site-title {
@@ -157,7 +157,7 @@ SIDEBAR
 .side-bar {
     background-color: var(--theme-5);
     font-family: system-ui, -apple-system, blinkmacsystemfont, "Segoe UI", roboto, "Helvetica Neue", arial, sans-serif, "Segoe UI Emoji";
-    border-right: 1px solid var(--theme-6);
+    border-right: 1px solid var(--theme-3);
 }
 
 .nav-list .nav-list-item .nav-list-expander,
@@ -238,7 +238,7 @@ BLOCK QUOTE
 
 .main-content blockquote {
 
-    border-left: 3px solid var(--theme-6);
+    border-left: 3px solid var(--theme-3);
     font-style: italic;
 }
 
@@ -284,7 +284,7 @@ BREADCRUMBS
 ***/
 
 .breadcrumb-nav-list-item::after {
-    color: var(--theme-6);
+    color: var(--theme-3);
 }
 
 /***
