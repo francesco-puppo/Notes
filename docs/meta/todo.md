@@ -12,6 +12,7 @@ A list of stuff I have to do for this website.
 
 - [ ] Improve search on mobile
 - [ ] Add RSS feed for updates
+- [x] Add Edit in GitHub button
 
 ### Styling
 

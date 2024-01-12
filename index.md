@@ -5,7 +5,7 @@ nav_order: 1
 last_modified_date: 2024-01-12
 ---
 
-👋 Hello, I'm Fran and welcome to my notes, publicly available for everyone!
+# 👋 Hello and welcome to my notes!
 
 ## What is this?
 
