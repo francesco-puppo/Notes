@@ -176,7 +176,7 @@ SIDEBAR
 .nav-list-link.active,
 li.nav-list-item.active,
 .nav-list .nav-list-item .nav-list-link.active {
-    color: var(--alternate-4);
+    color: var(--highlight-1);
     background-image: none;
     background-color: transparent;
     font-weight: 700;
@@ -186,7 +186,7 @@ li.nav-list-item.active,
 .nav-list .nav-list-item .nav-list-expander:hover,
 .nav-list .nav-list-item .nav-list-link:hover {
     background-image: none;
-    color: var(--highlight-1);
+    color: var(--highlight-5);
 }
 
 .nav-list .nav-list-item .nav-list-expander:hover svg {
