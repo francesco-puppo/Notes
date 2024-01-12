@@ -11,6 +11,8 @@ Bear is a markdown editor for Apple devices.
 
 ## What makes it unique
 
+Hi Ross!
+
 ## What works well
 
 - Bear is a pleasure to use, on every platform
