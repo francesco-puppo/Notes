@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Plain text files
-parent: File Management
+parent: File management
 ---
 
 # Plain text files 

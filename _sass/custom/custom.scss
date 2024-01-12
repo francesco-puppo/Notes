@@ -248,6 +248,10 @@ a.search-result *,
   background-color: var(--three);
 }
 
+.search-result:hover a, .search-result.active a {
+  color: var(--theme);
+}
+
 /***
 BREADCRUMBS
 ***/
