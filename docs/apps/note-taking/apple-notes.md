@@ -1,11 +1,11 @@
 ---
 layout: default
-title: NotePlan
+title: Apple Notes
 parent: Note taking
 grand_parent: Apps
 ---
 
-# {{ page.title }}
+# Apple Notes
 
 
 
@@ -15,20 +15,20 @@ grand_parent: Apps
 
 ## What works well
 
-
+- 
 
 ## What could be improved
 
+- 
 
+## Why use it
 
-## It's for you if
+- 
 
+## Why not use it
 
-
-## It's NOT for you if
-
-
+- 
 
 ## More
 
-- [Official website](https://bear.app)
+[Official website]()
