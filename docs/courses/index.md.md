@@ -28,7 +28,7 @@ has_toc: false
 
 ## English
 
-- Lesson | Small Talk & Conversational Vocabulary [Coursera](https://www.coursera.org/learn/lesson-small-talk-and-conversational-vocabulary)
+- Lesson - Small Talk & Conversational Vocabulary - [Coursera](https://www.coursera.org/learn/lesson-small-talk-and-conversational-vocabulary)
 
 ## Websites
 
