@@ -284,8 +284,9 @@ PAGE FOOTER
   color: var(--one);
 }
 
+/* Reply button */
 .main-content footer p.text-small.text-grey-dk-100.mb-0 a {
-    background: var(--two);
+    background: var(--four);
     color: var(--theme);
     padding: 8px 16px;
     position: relative;
@@ -298,7 +299,7 @@ PAGE FOOTER
 
 
 .main-content footer p.text-small.text-grey-dk-100.mb-0 a:hover {
-  background: var(--four);
+  background: var(--two);
 }
 
 .main-content footer p.text-small.text-grey-dk-100.mb-0 a i {
