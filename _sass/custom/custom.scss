@@ -264,7 +264,7 @@ a.search-result *,
 }
 
 .search-result:hover, .search-result.active {
-  background-color: var(--alternate-4);
+  background-color: var(--highlight-5);
 }
 
 .search-result:hover a, .search-result.active a {
@@ -325,10 +325,10 @@ PAGE FOOTER
 
 /* Reply button */
 .main-content footer p.text-small.text-grey-dk-100.mb-0 a {
-    background: var(--highlight-1);
+    background: var(--theme-4);
     text-decoration: none;
     display: block;
-    color: var(--theme-5);
+    color: var(--highlight-1);
     padding: 8px 16px;
     position: relative;
     font-size: 1rem;
@@ -336,15 +336,16 @@ PAGE FOOTER
     font-weight: 500;
     border-radius: 4px;
     transition: all 0.25s ease-in-out;
+    border: solid 2px transparent;
 }
 
 
 .main-content footer p.text-small.text-grey-dk-100.mb-0 a:hover {
-  background: var(--highlight-5);
+  border: solid 2px var(--highlight-5);
 }
 
 .main-content footer p.text-small.text-grey-dk-100.mb-0 a i {
-  color: var(--theme-5);
+  color: var(--highlight-1);
   margin-right: 8px;
 }
 
