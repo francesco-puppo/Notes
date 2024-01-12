@@ -206,6 +206,20 @@ pre.highlight {
 }
 
 /***
+BLOCK QUOTE
+***/
+
+.main-content blockquote {
+
+    border-left: 3px solid var(--five);
+    font-style: italic;
+}
+
+.main-content blockquote p {
+  opacity: 0.8;
+}
+
+/***
 SEARCH
 ***/
 
