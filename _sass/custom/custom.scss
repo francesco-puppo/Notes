@@ -86,7 +86,7 @@ a {
 }
 
 a:not([class]) {
-    text-decoration-color: var(--alternate-3);
+    text-decoration-color: var(--highlight-5);
 }
 
 a:not([class]):hover {
@@ -286,7 +286,7 @@ FOOTER
 .site-footer a {
   display: block;
   text-decoration: none;
-  background: var(--theme-6);
+  background: var(--theme-4);
   color: var(--alternate-1);
   box-shadow: var(--shadow-1);
   border-radius: 8px;
@@ -340,7 +340,7 @@ PAGE FOOTER
 
 
 .main-content footer p.text-small.text-grey-dk-100.mb-0 a:hover {
-  background: var(--alternate-3);
+  background: var(--highlight-5);
 }
 
 .main-content footer p.text-small.text-grey-dk-100.mb-0 a i {
