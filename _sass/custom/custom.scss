@@ -288,6 +288,8 @@ PAGE FOOTER
 /* Reply button */
 .main-content footer p.text-small.text-grey-dk-100.mb-0 a {
     background: var(--four);
+    text-decoration: none;
+    display: block;
     color: var(--theme);
     padding: 8px 16px;
     position: relative;
