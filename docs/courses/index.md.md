@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Courses
-has_children: true
-has_toc: true
+has_children: false
+has_toc: false
 ---
 
 # Courses
