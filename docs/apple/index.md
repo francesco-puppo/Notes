@@ -7,4 +7,4 @@ has_toc: true
 
 # Apple
 
-Various resources for Apple devices. Mainly macOS, iPadOS, and iOS, since that's what I use.
+Various resources for Apple devices. Mainly macOS, iPadOS, and iOS, since [that's what I use](https://iamfran.com/uses).

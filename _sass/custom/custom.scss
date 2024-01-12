@@ -213,15 +213,15 @@ CODE BLOCK
 .highlight, 
 pre.highlight {
     background: var(--theme-4);
-    color: var(--content);
+    color: var(--alternate-3);
 }
 
 :not(pre, figure) > code {
     font-size: 0.9rem;
-    background: var(--theme-2);
-    border: 1px solid var(--theme-4);
+    background: var(--theme-4);
+    border: 1px solid var(--theme-3);
     padding: 2px 4px;
-    color: var(--theme-5);
+    color: var(--alternate-3);
 }
 
 /***
