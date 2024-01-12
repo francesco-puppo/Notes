@@ -6,4 +6,4 @@ parent: Apple
 
 # iOS
 
-{{> iPadOS }}
+{{ > iPadOS }}

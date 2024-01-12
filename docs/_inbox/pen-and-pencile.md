@@ -1,3 +1,0 @@
-> No offence to Figma but <mark>the best tool for design is a piece of paper and a pencil</mark>. And I would always say that not backed by research, but back by my own experience. And then I started delving into the Neuroscience of what happens to our brains when we draw: there's something that is released in our brains that equals joy. Serotonin and dopamine literally releases every time we draw. That's why drawing is an art therapy is used for trauma patients and children: because it puts them in a happy state.
-
-Source: [Generative AI and creative arms race - Ovetta Patrice Sampson \(Config 2023\)](https://www.youtube.com/watch?v=kFYaEvADgsE&t=186s)
