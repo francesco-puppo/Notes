@@ -14,6 +14,8 @@ The template I used is called [Just the Docs](https://just-the-docs.com/), which
 
 I tried to set it up in a way that is easy for me to edit and maintain. [^happy]
 
+[^happy]: Even if I'm quite happy with the result, I know it could be improved. Unfortunately, I lack the technical skills.
+
 ## Setup
 
 Everything is hosted on GitHub (in [this repository](https://github.com/francesco-puppo/Notes)) and, locally, I store the project in a folder synced with iCloud.
@@ -27,7 +29,7 @@ If I'm not at my computer, or I want to do a quick edit, I can also use the *Edi
 The structure of the files follow the instructions from Just the Docs and it looks like this:
 
 ```
-┣ ⚙️ _config.yml
+┣ 📄 _config.yml
 ┃
 ┣ 📁 _includes
 ┃ ┃
@@ -66,4 +68,8 @@ The folder `docs` store all the actual pages in Markdown format.
 
 I also added it to iA Writer and Obsidian so I am able to edit them from there as well, without the need to navigate through the Finder or open VS Code.
 
-[^happy]: Even if I'm quite happy with the result, I know it could be improved. Unfortunately, I lack the technical skills.
+## Workflow
+
+I usually save stuff for later in mymind.com. I find it's the best way to save something without any friction and be sure you'll find it again later, no matter what.
+
+
