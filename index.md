@@ -5,7 +5,9 @@ nav_order: 1
 last_modified_date: 2024-01-12
 ---
 
-# 👋 Hello and welcome to my notes!
+# 👋 Hello
+
+Welcome to my notes. 
 
 ## What is this?
 
