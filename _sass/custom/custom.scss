@@ -306,10 +306,15 @@ PAGE FOOTER
   margin-right: 8px;
 }
 
-.main-content footer {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
+// .main-content footer {
+//     display: flex;
+//     flex-direction: row;
+//     justify-content: space-between;
+// }
+
+
+.text-grey-dk-000 {
+  color: var(--six);
 }
 
 a#edit-this-page {
@@ -333,5 +338,16 @@ MENU
 }
 
 .site-button:hover {
+  background-image: none;
   background-color: transparent;
+}
+
+@media (min-width: 31.25rem) {
+.site-footer {
+    font-size: 1rem !important;
+}
+
+.main-content footer {
+  margin-bottom: 1rem;
+}
 }
