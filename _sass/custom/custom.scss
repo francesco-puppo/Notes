@@ -195,6 +195,7 @@ li.nav-list-item.active,
 
 .nav-list .nav-list-item .nav-list-expander:hover svg {
     color: var(--highlight-1);
+    cursor: pointer;
 }
 
 .main-content .anchor-heading:hover svg {
