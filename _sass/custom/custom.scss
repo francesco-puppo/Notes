@@ -151,7 +151,7 @@ SIDEBAR
 ***/
 
 .side-bar {
-    background-color: var(--pure);
+    background-color: var(--theme-5);
     font-family: system-ui, -apple-system, blinkmacsystemfont, "Segoe UI", roboto, "Helvetica Neue", arial, sans-serif, "Segoe UI Emoji";
     border-right: 1px solid var(--theme-6);
 }
@@ -221,7 +221,7 @@ pre.highlight {
     background: var(--theme-2);
     border: 1px solid var(--theme-6);
     padding: 2px 4px;
-    color: var(--pure);
+    color: var(--theme-5);
 }
 
 /***
@@ -256,7 +256,7 @@ a.search-result *,
 
 .search-results,
 .search-active .search-input {
-    background-color: var(--pure);
+    background-color: var(--theme-5);
 }
 
 .search-result-doc .search-result-icon {
@@ -268,7 +268,7 @@ a.search-result *,
 }
 
 .search-result:hover a, .search-result.active a {
-  color: var(--pure);
+  color: var(--theme-5);
 }
 
 /***
@@ -288,7 +288,7 @@ FOOTER
   text-decoration: none;
   background: var(--theme-6);
   color: var(--alternate-1);
-  box-shadow: var(--shadow-one);
+  box-shadow: var(--shadow-1);
   border-radius: 8px;
   padding: 0.8rem;
   transition: all 0.25s ease-in-out;
@@ -310,7 +310,7 @@ FOOTER
 }
 
 .site-footer a:hover strong{
-  // color: var(--pure);
+  // color: var(--theme-5);
   border-bottom: solid 1px var(--highlight-1);
 }
 
@@ -328,7 +328,7 @@ PAGE FOOTER
     background: var(--highlight-1);
     text-decoration: none;
     display: block;
-    color: var(--pure);
+    color: var(--theme-5);
     padding: 8px 16px;
     position: relative;
     font-size: 1rem;
@@ -344,7 +344,7 @@ PAGE FOOTER
 }
 
 .main-content footer p.text-small.text-grey-dk-100.mb-0 a i {
-  color: var(--pure);
+  color: var(--theme-5);
   margin-right: 8px;
 }
 
