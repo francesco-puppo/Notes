@@ -198,10 +198,11 @@ pre.highlight {
 }
 
 :not(pre, figure) > code {
-  font-size: 0.9rem;
-    background: var(--five);
+    font-size: 0.9rem;
+    background: var(--six);
     border: 1px solid var(--five);
     padding: 2px 4px;
+    color: var(--theme);
 }
 
 /***

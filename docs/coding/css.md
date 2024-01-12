@@ -8,6 +8,14 @@ parent: Coding
 
 ## Snippets
 
+### Media queries
+
+```css
+/*** Affects mobile ***/
+@media screen and (max-width: 800px) {
+}
+```
+
 ### Dark theme
 
 ```css
