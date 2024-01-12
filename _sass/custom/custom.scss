@@ -374,3 +374,10 @@ MENU
   margin-bottom: 1rem;
 }
 }
+
+@media screen and (min-width: 800px) {
+  .main-content img {
+      max-width: 50%;
+      display: block;
+  }
+}
