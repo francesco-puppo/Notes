@@ -5,7 +5,7 @@
       "name" : "Page"
     },
     {
-      "content" : "---\nlayout: default\ntitle: \nhas_children: true\nhas_toc: true\n---",
+      "content" : "---\nlayout: default\ntitle: \nhas_children: true\nhas_toc: true\n---\n\n# {{ page.title }}",
       "name" : "Index"
     },
     {

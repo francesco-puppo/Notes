@@ -27,6 +27,7 @@ Bear is a markdown editor for Apple devices.
 
 - You love well crafted, native apps
 - Apple Notes doesn't satisfy you and you want something similar but more powerful and flexible
+- You want to set up a [simple yet flexible Zettelkasten](https://mindfulteacher.substack.com/p/why-bear-is-my-zettelkasten)
 
 ## It's NOT for you if
 
