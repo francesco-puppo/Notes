@@ -11,7 +11,11 @@ has_toc: true
 ## Table of contents
 {: .no_toc .text-delta }
 
+<<<<<<< HEAD
 - TOC
+=======
+1. TOC
+>>>>>>> main
 {:toc}
 
 ## Movies
