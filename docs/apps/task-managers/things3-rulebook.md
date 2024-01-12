@@ -2,6 +2,7 @@
 layout: default
 title: My Things 3 Rulebook
 parent: Things 3
+grand_parent: Task managers
 ---
 
 # {{ page.title }}
