@@ -279,6 +279,7 @@ footer p.text-small.text-grey-dk-000.mb-0.mr-2 {
 
 footer p.text-small.text-grey-dk-100.mb-0 a {
     background: var(--two);
+    color: var(--theme);
     padding: 8px 16px;
     position: relative;
     font-size: 1rem;
@@ -288,13 +289,13 @@ footer p.text-small.text-grey-dk-100.mb-0 a {
     transition: all 0.25s ease-in-out;
 }
 
+
 footer p.text-small.text-grey-dk-100.mb-0 a:hover {
-  color: var(--one);
   background: var(--four);
 }
 
 footer p.text-small.text-grey-dk-100.mb-0 a i {
-  color: var(--one);
+  color: var(--theme);
   margin-right: 8px;
 }
 
