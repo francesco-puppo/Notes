@@ -346,7 +346,7 @@ MENU
   background-color: transparent;
 }
 
-@media (min-width: 31.25rem) {
+@media screen and (max-width: 800px) {
 .site-footer {
     font-size: 1rem !important;
 }
