@@ -28,4 +28,5 @@ Stuff  | More things
 
 See also [Note taking apps](/docs/apps/note-taking)
 
-- [Markwhen](https://markwhen.com/) - Offline-first, plain text calendar and planning app
+- [Markwhen](https://markwhen.com/): Offline-first, plain text calendar and planning app
+- [Buttondown](https://buttondown.email/): Write newsletter using Markdown
