@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Martin Scorsese's list of essential foreign films
-parent: Movies & TV
+parent: Movies & TV shows
 ---
 
 # Martin Scorsese's list of essential foreign films
