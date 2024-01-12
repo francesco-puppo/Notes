@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Task Managers
+title: Task managers
 parent: Apps
 ---
 
-# Task Managers
+# Task managers
 
 - Things
 - Todoist

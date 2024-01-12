@@ -3,6 +3,7 @@ layout: default
 title: Apple Notes
 parent: Note taking
 grand_parent: Apps
+# has_children: true
 ---
 
 # Apple Notes
