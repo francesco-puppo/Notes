@@ -272,11 +272,11 @@ a.search-result *,
 }
 
 .search-result:hover, .search-result.active {
-  background-color: var(--highlight-5);
+  background-color: var(--alternate-4);
 }
 
 .search-result:hover a, .search-result.active a {
-  color: var(--theme-5);
+  color: var(--theme-1);
 }
 
 /***
