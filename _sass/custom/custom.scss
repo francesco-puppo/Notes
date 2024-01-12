@@ -197,8 +197,12 @@ li.nav-list-item.active,
     color: var(--highlight-1);
 }
 
-.main-content .anchor-heading svg {
-    color: var(--highlight-1)
+.main-content .anchor-heading:hover svg {
+    color: var(--theme-1);
+}
+
+.main-content .anchor-heading svg:hover {
+    color: var(--highlight-3);
 }
 
 /***
