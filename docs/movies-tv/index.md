@@ -72,7 +72,7 @@ In order of release date:
 
 ## TV Shows
 
-I tried not to watch too many TV shows but anyway, here are some of my favourites (in random order):
+I try not to watch too many TV shows but anyway, here are some of my favourites (in random order):
 
 - The Wire
 - Fargo
