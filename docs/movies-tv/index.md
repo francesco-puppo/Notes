@@ -69,3 +69,14 @@ In order of release date:
 - [12 Angry Men](https://letterboxd.com/film/12-angry-men/) (1957)
 - [Citizen Kane](https://letterboxd.com/film/citizen-kane/) (1941)
 - [M](https://letterboxd.com/film/m/) (1931)
+
+## TV Shows
+
+I tried not to watch too many TV shows but anyway, here are some of my favourites (in random order):
+
+- The Wire
+- Fargo
+- Band of Brothers
+- Utopia
+- Luther
+- The Fall
