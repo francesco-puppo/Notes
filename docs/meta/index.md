@@ -25,17 +25,39 @@ To edit these files I mainly use Nova or VS Code (see [Text Editors / Code](/doc
 The structure of the files follow the instructions from Just the Docs and it looks like this:
 
 ```
-_config.yml
-|
-_includes
-| 
-| -- (custom layouts)
-| 
-_sass
-| 
-| -- (custom css) 
-| 
-assets
+┣ ⚙️ _config.yml
+┃
+┣ 📁 _includes
+┃ ┃
+┃ ┗ 📄 (custom layouts)
+┃ 
+┣ 📁 _saas
+┃ ┃
+┃ ┗ 📄 (custom styling)
+┃ 
+┣ 📁 assets
+┃ ┃
+┃ ┗ 📄 (photos, favicon, etc.)
+┃
+┣ 📁 docs (all notes are stored in here)
+┃ ┃
+┃ ┣ 📁 topic 1
+┃ ┃ ┃
+┃ ┃ ┣ 📄 index.md
+┃ ┃ ┃
+┃ ┃ ┗ 📄 page.md
+┃ ┃
+┃ ┗ 📁 topic 1
+┃   ┃
+┃   ┣ 📄 index.md
+┃   ┃
+┃   ┗ 📄 page.md
+┃  
+┣ 💎 Gemfile
+┃
+┣ 📄 index.md (the homepage)
+┃
+┗ Other varius pages
 ```
 
 The folder `docs` store all the actual pages in Markdown format. 
