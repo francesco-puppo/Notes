@@ -1,7 +1,7 @@
 {
   "clips" : [
     {
-      "content" : "---\nlayout: default\ntitle:\nparent: \n---",
+      "content" : "---\nlayout: default\ntitle:\nparent: \n---\n\n# {{ page.title }}",
       "name" : "Page"
     },
     {
