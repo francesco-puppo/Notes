@@ -8,6 +8,8 @@ parent: Coding
 
 ## Snippets
 
+Some snippets I frequently use and never remember.
+
 ### Media queries
 
 ```css
