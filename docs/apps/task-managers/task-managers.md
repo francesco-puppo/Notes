@@ -6,6 +6,7 @@ parent: Apps
 
 # Task managers
 
-- Things
-- Todoist
+- [Things](https://culturedcode.com/things)
+- [Todoist](https://todoist.com)
 - NotePlan
+- Apple Reminders
