@@ -2,6 +2,7 @@
 layout: default
 title: macOS
 parent: Apple
+has_children: true
 ---
 
 # macOS

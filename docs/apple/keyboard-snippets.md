@@ -2,6 +2,7 @@
 layout: default
 title: Keyboard snippets
 parent: macOS
+grand_parent: Apple
 ---
 
 # {{ page.title }}
