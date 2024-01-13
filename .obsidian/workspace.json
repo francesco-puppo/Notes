@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/apple/keyboard-snippets.md",
+                "file": "docs/apps/utilities/raycast.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/apple/keyboard-snippets.md",
+                "file": "docs/apps/utilities/raycast.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/apple/keyboard-snippets.md",
+                "file": "docs/apps/utilities/raycast.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/apple/keyboard-snippets.md"
+                "file": "docs/apps/utilities/raycast.md"
               }
             }
           }
@@ -162,7 +162,9 @@
   },
   "active": "386aaa6ccd980569",
   "lastOpenFiles": [
-    "docs/apps/utilities/alfred.md",
+    "docs/apple/keyboard-snippets.md",
+    "docs/apps/utilities/raycast.md",
+    "docs/apps/utilities/raycast",
     "docs/apps/utilities"
   ]
 }
