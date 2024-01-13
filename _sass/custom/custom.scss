@@ -3,41 +3,23 @@ COLOURS
 ***/
 
 :root {
-  --highlight-1: #FF6D00;
-  --highlight-2: #FF7900;
-  --highlight-3: #FF8500;
-  --highlight-4: #FF9100;
-  --highlight-5: #FF9E00;
-  --alternate-1: #240046;
-  --alternate-2: #3C096C;
-  --alternate-3: #5A189A;
-  --alternate-4: #7B2CBF;
-  --alternate-5: #9D4EDD;
-  --theme-1: #241834;
-  --theme-2: #6c7c8a;
-  --theme-3: #e3e9ef;
-  --theme-4: #f1f5f9;
-  --theme-5: #ffffff;
+  --background: #FFFFFF;          //background
+  --background-alt: #E3E9EF;      //borders
+  --contrast: #240046;            //body 
+  --contrast-alt: #5A189A;        //titles
+  --highlight: #FF6D00;           //links
+  --highlight--alt: #FF9100;      //hover
   --shadow-one: rgba(0, 0, 0, 0.16) 0px 1px 4px;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --highlight-5: #E37975;
-    --highlight-4: #E37975;
-    --highlight-3: #FEA157;
-    --highlight-2: #FEA157;
-    --highlight-1: #FEA157;
-    --theme-5: #1D1627;
-    --theme-4: #241834;
-    --theme-3: #4E136A;
-    --theme-2: #BB2777;
-    --theme-1: #EA33BA;
-    --alternate-5: #a1afbc;
-    --alternate-4: #bcc8d3;
-    --alternate-3: #e3e9ef;
-    --alternate-2: #f1f5f9;
-    --alternate-1: #ffffff;
+    --background: #240046;            //body 
+    --background-alt: #5A189A;        //titles
+    --contrast: #FFFFFF;          //background
+    --contrast-alt: #E3E9EF;      //borders
+    --highlight: #FF6D00;           //links
+    --highlight--alt: #FF9100;      //hover
   }
 }
 
@@ -52,7 +34,7 @@ GENERAL
 ***/
 
 body {
-    background-color: var(--theme-5);
+    background-color: var(--background);
 }
 
 body,
@@ -60,7 +42,7 @@ body,
 .main-content ul,
 .main-content ol {
     font-family: 'JetBrains Mono', monospace;
-    color: var(--alternate-1);
+    color: var(--contrast);
 }
 
 h1,
@@ -70,7 +52,7 @@ h4,
 h5 {
     font-family: 'Archivo Black', sans-serif;
     font-weight: 700;
-    color: var(--theme-2);
+    color: var(--contrast-alt);
     text-transform: uppercase;
 }
 
@@ -79,23 +61,23 @@ h5 {
 }
 
 hr {
-    background-color: var(--theme-3);
+    background-color: var(--background-alt);
 }
 
 /* Links */
 
 a {
-    color: var(--alternate-1);
+    color: var(--contrast-alt);
     transition: all 0.25s ease-out;
 }
 
 a:not([class]) {
-    text-decoration-color: var(--highlight-5);
+    text-decoration-color: var(--highlight);
 }
 
 a:not([class]):hover {
-    text-decoration-color: var(--highlight-1);
-    color: var(--highlight-1);
+    color: var(--highlight);
+    text-decoration-color: var(--highlight-alt);
 }
 
 /***
@@ -110,7 +92,7 @@ h6 {
 
 .footnotes {
     padding: 1rem;
-    background-color: var(--theme-4);
+    background-color: var(--background-alt);
     margin-top: 60px;
 }
 
@@ -119,7 +101,7 @@ h6 {
     content: 'Footnotes';
     font-family: 'Silkscreen', sans-serif;
     font-size: 1rem;
-    color: var(--alternate-3);
+    color: var(--contrast-alt);
 }
 
 /***
@@ -127,16 +109,16 @@ HEADER
 ***/
 
 .site-header {
-    border-bottom: 1px solid var(--theme-3);
+    border-bottom: 1px solid var(--background);
 }
 
 .main-header {
     background-color: transparent;
-    border-bottom: 1px solid var(--theme-3);
+    border-bottom: 1px solid var(--background);
 }
 
 .site-title {
-    color: var(--alternate-3);
+    color: var(--contrast-alt);
     font-family: 'Archivo Black';
     text-transform: uppercase;
 }
@@ -155,14 +137,14 @@ SIDEBAR
 ***/
 
 .side-bar {
-    background-color: var(--theme-5);
+    background-color: var(--background);
     font-family: system-ui, -apple-system, blinkmacsystemfont, "Segoe UI", roboto, "Helvetica Neue", arial, sans-serif, "Segoe UI Emoji";
-    border-right: 1px solid var(--theme-3);
+    border-right: 1px solid var(--background-alt);
 }
 
 .nav-list .nav-list-item .nav-list-expander,
 .nav-list .nav-list-item > .nav-list .nav-list-item .nav-list-expander {
-    color: var(--alternate-1);
+    color: var(--contrast);
 }
 
 .site-nav a {
@@ -172,7 +154,7 @@ SIDEBAR
 .nav-list .nav-list-item .nav-list-link,
 .nav-list .nav-list-item > .nav-list .nav-list-item .nav-list-link {
     font-weight: 500;
-    color: var(--alternate-1);
+    color: var(--contrast);
     padding-top: 0.5rem;
     padding-bottom: 0.5rem;
 }
@@ -180,7 +162,7 @@ SIDEBAR
 .nav-list-link.active,
 li.nav-list-item.active,
 .nav-list .nav-list-item .nav-list-link.active {
-    color: var(--highlight-1);
+    color: var(--contrast-alt);
     background-image: none;
     background-color: transparent;
     font-weight: 700;
@@ -190,20 +172,20 @@ li.nav-list-item.active,
 .nav-list .nav-list-item .nav-list-expander:hover,
 .nav-list .nav-list-item .nav-list-link:hover {
     background-image: none;
-    color: var(--highlight-5);
+    color: var(--highlight-alt);
 }
 
 .nav-list .nav-list-item .nav-list-expander:hover svg {
-    color: var(--highlight-1);
+    color: var(--highlight-alt);
     cursor: pointer;
 }
 
 .main-content .anchor-heading:hover svg {
-    color: var(--theme-1);
+    color: var(--highlight--alt);
 }
 
 .main-content .anchor-heading svg:hover {
-    color: var(--highlight-3);
+    color: var(--highlight-alt);
 }
 
 /***
@@ -212,7 +194,7 @@ LISTS
 
 .main-content ol > li::before,
 .main-content ul > li::before {
-    color: var(--alternate-4);
+    color: var(--contrast-alt);
 }
 
 /***
@@ -221,16 +203,16 @@ CODE BLOCK
 
 .highlight, 
 pre.highlight {
-    background: var(--theme-4);
-    color: var(--alternate-3);
+    background: var(--background-alt);
+    color: var(--contrast);
 }
 
 :not(pre, figure) > code {
     font-size: 0.9rem;
-    background: var(--theme-4);
-    border: 1px solid var(--theme-3);
+    background: var(--background-alt);
+    border: 1px solid var(--background-alt);
     padding: 2px 4px;
-    color: var(--alternate-3);
+    color: var(--contrast);
 }
 
 /***
@@ -239,7 +221,7 @@ BLOCK QUOTE
 
 .main-content blockquote {
 
-    border-left: 3px solid var(--theme-3);
+    border-left: 3px solid var(--background);
     font-style: italic;
 }
 
@@ -256,28 +238,28 @@ a.search-result *,
 .search-input::placeholder,
 .search-input:focus + .search-label .search-icon {
     background: transparent;
-    color: var(--alternate-1);
+    color: var(--contrast);
 }
 
 .search-label .search-icon {
-    color: var(--highlight-1);
+    color: var(--contrast-alt);
 }
 
 .search-results,
 .search-active .search-input {
-    background-color: var(--theme-5);
+    background-color: var(--background-alt);
 }
 
 .search-result-doc .search-result-icon {
-  color: var(--alternate-3);
+  color: var(--contrast);
 }
 
 .search-result:hover, .search-result.active {
-  background-color: var(--highlight-5);
+  background-color: var(--highlight);
 }
 
 .search-result:hover a, .search-result.active a {
-  color: var(--theme-1);
+  color: var(--background);
 }
 
 /***
@@ -285,7 +267,7 @@ BREADCRUMBS
 ***/
 
 .breadcrumb-nav-list-item::after {
-    color: var(--theme-3);
+    color: var(--background-alt);
 }
 
 /***
@@ -295,9 +277,9 @@ FOOTER
 .site-footer a {
   display: block;
   text-decoration: none;
-  background: var(--theme-4);
-  color: var(--alternate-1);
-  box-shadow: var(--shadow-1);
+  background: var(--background-alt);
+  color: var(--contrast);
+  box-shadow: var(--shadow-one);
   border-radius: 8px;
   padding: 0.8rem;
   transition: all 0.25s ease-in-out;
@@ -305,13 +287,13 @@ FOOTER
 }
 
 .site-footer a:hover {
-  // background: var(--highlight-1);
-  color: var(--alternate-1);
-  border: solid 1.5px var(--highlight-1);
+  // background: var(--highlight);
+  color: var(--contrast);
+  border: solid 1.5px var(--highlight);
 }
 
 .site-footer a strong {
-  color: var(--highlight-1);
+  color: var(--highlight);
   font-weight: 700;
   text-decoration: none;
   border-bottom: solid 1px transparent;
@@ -319,8 +301,8 @@ FOOTER
 }
 
 .site-footer a:hover strong{
-  // color: var(--theme-5);
-  border-bottom: solid 1px var(--highlight-1);
+  // color: var(--background-alt);
+  border-bottom: solid 1px var(--highlight);
 }
 
 /***
@@ -329,14 +311,14 @@ PAGE FOOTER
 
 .main-content footer p.text-small.text-grey-dk-100.mb-0,
 .main-content footer p.text-small.text-grey-dk-000.mb-0.mr-2 {
-  color: var(--alternate-1);
+  color: var(--contrast);
 }
 
 /* Reply button */
 .main-content footer p.text-small.text-grey-dk-100.mb-0 a {
-    background: var(--theme-1);
+    background: var(--background--alt);
     text-decoration: none;
-    color: var(--theme-5);
+    color: var(--contrast);
     padding: 8px 16px;
     position: relative;
     font-size: 1rem;
@@ -349,12 +331,12 @@ PAGE FOOTER
 
 
 .main-content footer p.text-small.text-grey-dk-100.mb-0 a:hover {
-    border: solid 2px var(--highlight-5);
-    background: var(--highlight-1);
+    border: solid 2px var(--highlight-alt);
+    // background: var(--highlight);
 }
 
 .main-content footer p.text-small.text-grey-dk-100.mb-0 a i {
-  color: var(--theme-5);
+  color: var(--highlight);
   margin-right: 8px;
 }
 
@@ -366,19 +348,19 @@ PAGE FOOTER
 
 
 .text-grey-dk-000 {
-  color: var(--theme-2);
+  color: var(--background);
 }
 
 a#edit-this-page {
-    color: var(--theme-2);
+    color: var(--background);
     text-decoration: none;
     border-bottom: solid 1px transparent;
     transition: all 0.25s ease-in-out;
 }
 
 a#edit-this-page:hover {
-    color: var(--highlight-1);
-    border-bottom: solid 1px var(--highlight-1);
+    color: var(--highlight);
+    border-bottom: solid 1px var(--highlight);
 }
 
 /***
@@ -386,7 +368,7 @@ MENU
 ***/
 
 .icon {
-  color: var(--alternate-4);
+  color: var(--contrast-alt);
 }
 
 .site-button:hover {
@@ -404,7 +386,7 @@ MENU
 }
 
 .main-content footer p.text-small.text-grey-dk-100.mb-0 a {
-background: var(--alternate-4);
+background: var(--contrast-alt);
 text-decoration: none;
 display: block;
 }
