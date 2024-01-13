@@ -10,7 +10,7 @@ grand_parent: Apple
 I use [Raycast](/docs/apps/utilities/raycast) but the concept is the same as with other apps like Alfred or Text Expander.
 
 | Input | Output | Notes |
-| ---- | ---- | ---- |
+|:------|:-------|:------|
 | ;ep | personal(@)email(.)com | `e`mail `p`ersonal |
 | ;ew | work(@)email(.)com | `e`mail `w`ork |
 | ;dc | yyyy-MM-dd | Raycast format: `{date format="yyyy-MM-dd"}`. The `c` stands for clear. |
