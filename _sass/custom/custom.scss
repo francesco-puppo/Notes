@@ -277,17 +277,17 @@ FOOTER
 .site-footer a {
   display: block;
   text-decoration: none;
-  background: var(--background-alt);
+  background: var(--background);
   color: var(--contrast);
   box-shadow: var(--shadow-one);
-  border-radius: 8px;
+  border-radius: 0px;
   padding: 0.8rem;
   transition: all 0.25s ease-in-out;
-  border: solid 1.5px transparent;
+  border: solid 1px var(--background-alt);
 }
 
 .site-footer a:hover {
-  // background: var(--highlight);
+  background: var(--highlight--alt);
   color: var(--contrast);
   border: solid 1.5px var(--highlight);
 }
@@ -317,7 +317,8 @@ PAGE FOOTER
 /* Reply button */
 .main-content footer p.text-small.text-grey-dk-100.mb-0 a {
     background: var(--background--alt);
-    text-decoration: none;
+    text-decoration: underline;
+    text-decoration-color: var(--highlight);
     color: var(--contrast);
     padding: 8px 16px;
     position: relative;
@@ -331,12 +332,14 @@ PAGE FOOTER
 
 
 .main-content footer p.text-small.text-grey-dk-100.mb-0 a:hover {
-    border: solid 2px var(--highlight-alt);
+    // border: solid 2px var(--highlight-alt);
     // background: var(--highlight);
+    color: var(--highlight--alt);
+    text-decoration-color: var(--highlight--alt);
 }
 
 .main-content footer p.text-small.text-grey-dk-100.mb-0 a i {
-  color: var(--highlight);
+  color: var(--contrast);
   margin-right: 8px;
 }
 
@@ -386,8 +389,8 @@ MENU
 }
 
 .main-content footer p.text-small.text-grey-dk-100.mb-0 a {
-background: var(--contrast-alt);
-text-decoration: none;
+// background: var(--contrast-alt);
+// text-decoration: none;
 display: block;
 }
 }
