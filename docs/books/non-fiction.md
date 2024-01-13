@@ -6,7 +6,7 @@ parent: Books
 
 # Fiction books
 
-A list of all the books I’ve read during the years. 
+A list of ==all the books== I’ve read during the years. 
 
 Scores go from 1 to 5. ❤️ = Loved it.
 
