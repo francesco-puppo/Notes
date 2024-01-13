@@ -19,10 +19,10 @@ I use [Raycast](/docs/apps/utilities/raycast) but the concept is the same as wit
 | ;po |  | Metadata for my blog `po`sts |
 | ;in |  | Metadata for `in`dex pages on this repository |
 | ;ch |  | Metadata for `ch`ild pages in this repository |
-| ;shift | ⇧ |  |
-| ;ctrl | ⌃ |  |
-| ;opt | ⌥ |  |
-| ;cmd | ⌘ |  |
+| ;shift | <kbd>⇧</kbd> |  |
+| ;ctrl | <kbd>⌃</kbd> |  |
+| ;opt | <kbd>⌥</kbd> |  |
+| ;cmd | <kbd>⌘</kbd> |  |
 | ;kall | ⌘⇧⌥⌃ |  |
 | ;kshift | `<kbd>⇧</kbd>` | To correctly[^robb] display keyboard shortcuts on websites |
 | ;kctrl | `<kbd>⌃</kbd>` | // |
