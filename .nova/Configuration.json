@@ -1,4 +1,5 @@
 {
+  "editor.default_syntax" : "markdown",
   "workspace.color" : 2,
   "workspace.name" : "Notes"
 }

@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "ffc2b8994dd13ebc",
+    "type": "split",
+    "children": [
+      {
+        "id": "595ec5dcac6ce3c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7fbbe27ced69f00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/apple/keyboard-snippets.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "386aaa6ccd980569",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/apple/keyboard-snippets.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "00e848d39bf1a89b",
+    "type": "split",
+    "children": [
+      {
+        "id": "836d073ffc0d80f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48e6b5e25ddf89cf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "84361ed31a31bd41",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6112308c49821597",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "83427c62e2867f75",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0d6f2c9e8729e33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92524668a2b66b21",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/apple/keyboard-snippets.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c584b1067693ac87",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/apple/keyboard-snippets.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d2b891498f4d02a5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4a62ad5443ac04c7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/apple/keyboard-snippets.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "386aaa6ccd980569",
+  "lastOpenFiles": [
+    "docs/apps/utilities/alfred.md",
+    "docs/apps/utilities"
+  ]
+}

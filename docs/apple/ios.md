@@ -6,4 +6,5 @@ parent: Apple
 
 # iOS
 
-{{ include /docs/apple/ipados.md }}
+## Siri
+- [Complete list of Siri comments - GitHub](https://github.com/extratone/siri)

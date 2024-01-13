@@ -70,6 +70,8 @@ I also added it to iA Writer and Obsidian so I am able to edit them from there a
 
 ## Workflow
 
-I usually save stuff for later in mymind.com. I find it's the best way to save something without any friction and be sure you'll find it again later, no matter what.
+I usually collect stuff for later in mymind.com. I find it's the best way to save something without any friction and be sure you'll find it again later, no matter what.
+
+Otherwise, I save quick notes in Apple Notes if I want to be reminded regarding something I want to write about or research on later on.  
 
 
