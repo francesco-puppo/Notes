@@ -279,7 +279,7 @@ FOOTER
   text-decoration: none;
   background: var(--background);
   color: var(--contrast);
-  box-shadow: var(--shadow-one);
+  // box-shadow: var(--shadow-one);
   border-radius: 0px;
   padding: 0.8rem;
   transition: all 0.25s ease-in-out;
@@ -288,7 +288,7 @@ FOOTER
 
 .site-footer a:hover {
   background: var(--highlight--alt);
-  color: var(--contrast);
+  color: var(--background);
   border: solid 1.5px var(--highlight);
 }
 
