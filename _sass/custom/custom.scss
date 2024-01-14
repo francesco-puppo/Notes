@@ -74,6 +74,7 @@ a:not([class]) {
 
 a:not([class]):hover {
     color: var(--highlight);
+    text-decoration-color: var(--highlight);
 }
 
 /***
@@ -135,7 +136,7 @@ SIDEBAR
 
 .side-bar {
     background-color: var(--background);
-    font-family: 'Rubik', sans-serif;    
+    font-family: 'Rubik', sans-serif;
     border-right: 1px solid var(--background-alt);
 }
 
@@ -155,7 +156,7 @@ SIDEBAR
     padding-top: 0.5rem;
     padding-bottom: 0.5rem;
 }
- 
+
 .nav-list-link.active,
 li.nav-list-item.active,
 .nav-list .nav-list-item .nav-list-link.active {
@@ -198,7 +199,7 @@ LISTS
 CODE BLOCK
 ***/
 
-.highlight, 
+.highlight,
 pre.highlight {
     background: var(--background-alt);
     color: var(--contrast);
@@ -320,7 +321,7 @@ PAGE FOOTER
     padding: 8px 16px;
     position: relative;
     font-size: 1rem;
-    font-family: 'Rubik', sans-serif;    
+    font-family: 'Rubik', sans-serif;
     font-weight: 500;
     border-radius: 4px;
     transition: all 0.25s ease-in-out;
@@ -342,7 +343,7 @@ PAGE FOOTER
 
 .main-content footer p.text-small.text-grey-dk-100.mb-0 a:hover i {
   color: var(--highlight);
-  margin-right: 8px;
+  transition: all 0.25s ease-in-out;
 }
 
 // .main-content footer {
