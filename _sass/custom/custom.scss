@@ -3,23 +3,20 @@ COLOURS
 ***/
 
 :root {
-  --background: #FFFFFF;          //background
-  --background-alt: #e9eef3;      //borders
-  --contrast: #240046;            //body 
-  --contrast-alt: #91189a;        //titles
-  --highlight: #FF6D00;           //links
-  --highlight--alt: #FF9100;      //hover
+  --background: #FFFFFF;
+  --background-alt: #e9eef3;
+  --contrast: #002858;
+  --contrast-alt: #054674;
+  --highlight: #12CAB5;
   --shadow-one: rgba(0, 0, 0, 0.16) 0px 1px 4px;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #240046;            //body 
-    --background-alt: #5A189A;        //titles
-    --contrast: #FFFFFF;          //background
-    --contrast-alt: #E3E9EF;      //borders
-    --highlight: #FF6D00;           //links
-    --highlight--alt: #FF9100;      //hover
+    --background: #002858;
+    --background-alt: #054674;
+    --contrast: #FFFFFF;
+    --contrast-alt: #E3E9EF;
   }
 }
 
@@ -77,7 +74,6 @@ a:not([class]) {
 
 a:not([class]):hover {
     color: var(--highlight);
-    text-decoration-color: var(--highlight-alt);
 }
 
 /***
@@ -172,11 +168,11 @@ li.nav-list-item.active,
 .nav-list .nav-list-item .nav-list-expander:hover,
 .nav-list .nav-list-item .nav-list-link:hover {
     background-image: none;
-    color: var(--highlight-alt);
+    color: var(--highlight);
 }
 
 .nav-list .nav-list-item .nav-list-expander:hover svg {
-    color: var(--highlight-alt);
+    color: var(--highlight);
     cursor: pointer;
 }
 
@@ -185,7 +181,7 @@ li.nav-list-item.active,
 }
 
 .main-content .anchor-heading svg:hover {
-    color: var(--highlight-alt);
+    color: var(--highlight);
 }
 
 /***
@@ -332,7 +328,7 @@ PAGE FOOTER
 
 
 .main-content footer p.text-small.text-grey-dk-100.mb-0 a:hover {
-    // border: solid 2px var(--highlight-alt);
+    // border: solid 2px var(--highlight);
     // background: var(--highlight);
     color: var(--highlight--alt);
     text-decoration-color: var(--highlight--alt);
