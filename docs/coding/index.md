@@ -7,4 +7,6 @@ has_toc: true
 
 # Coding
 
-This is the index page
+I'm not a developer, so here I store information mainly related to HTML, CSS, and some JS.
+
+For app suggestions, check [Text Editors / Code](https://notes.iamfran.com/docs/apps/text-editors.html#code).
