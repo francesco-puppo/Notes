@@ -346,7 +346,7 @@ PAGE FOOTER
 .main-content footer p.text-small.text-grey-dk-100.mb-0 a:hover {
     // border: solid 2px var(--highlight);
     background: var(--highlight-alt);
-    color: var(--highlight);
+    // color: var(--highlight);
     text-decoration-color: var(--highlight);
 }
 
@@ -356,7 +356,7 @@ PAGE FOOTER
 }
 
 .main-content footer p.text-small.text-grey-dk-100.mb-0 a:hover i {
-  color: var(--highlight);
+  // color: var(--highlight);
   transition: all 0.25s ease-in-out;
 }
 
