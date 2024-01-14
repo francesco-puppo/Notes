@@ -28,7 +28,7 @@ For real. Nothing complicated [^arcade].
 
 ## Static site generators
 
-Most of these, if not all, **cannot** be considered entry-level, since they require a technical background of some form. 
+Most of these, if not all, **cannot** be considered entry-level, since they require a technical background of some form.
 
 - [Static site generators (List)](https://jamstack.org/generators/)
 - [11ty](https://www.11ty.dev/): Lots of people I follow use this one
