@@ -31,9 +31,8 @@ For real. Nothing complicated [^arcade].
 Most of these, if not all, **cannot** be considered entry-level, since they require a technical background of some form. 
 
 - [Static site generators (List)](https://jamstack.org/generators/)
-- Hugo
-- [Blot](https://blot.im) → [Notes](/docs/indieweb/blot)
-- Jekyll
-	- For example, this website runs on Jekyll
-- [11ty](https://www.11ty.dev/)
+- [11ty](https://www.11ty.dev/): Lots of people I follow use this one
+- Hugo: My previous website was built with it and I liked it a lot
+- [Blot](https://blot.im): [Notes](/docs/indieweb/blot)
+- Jekyll: This website runs on Jekyll
 - [Docusaurus](https://docusaurus.io/)
