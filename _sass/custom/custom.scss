@@ -178,8 +178,8 @@ li.nav-list-item.active,
     cursor: pointer;
 }
 
-.main-content .anchor-heading:hover svg {
-    color: var(--highlight);
+.main-content .anchor-heading svg {
+    color: var(--contrast-alt);
 }
 
 .main-content .anchor-heading svg:hover {
