@@ -22,7 +22,9 @@ For real. Nothing complicated [^arcade].
 	- My [personal site](https://iamfran.com) runs on it
 
 ## Websites to follow
-- [Crash the Arcade](https://crashthearcade.com/)
+- [Robb Knight's website](https://rknight.me) by [Robb Knight](https://social.lol/@robb)
+- [A Very Good Blog](https://gkeenan.co/avgb) by [Keenan](https://social.lol/@keenan)
+- [Crash the Arcade](https://crashthearcade.com/) by [Mike Haynes](https://social.lol/@mikehaynes)]
 
 ## Static site generators
 
