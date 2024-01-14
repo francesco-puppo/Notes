@@ -15,3 +15,5 @@ Note taking apps can be divided in:
 - Rich text editors
 - Block based editors
 	- The new kid on the block, with [Notion](/docs/apps/notion) and [Craft](/docs/apps/craft) on the front-line.
+- Infinite lists
+- A concept that I love but unfortunately has not many apps developed around it. 

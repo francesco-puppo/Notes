@@ -20,7 +20,7 @@ I tried to set it up in a way that is easy for me to edit and maintain. [^happy]
 
 Everything is hosted on GitHub (in [this repository](https://github.com/francesco-puppo/Notes)) and, locally, I store the project in a folder synced with iCloud.
 
-To edit these files I mainly use Nova or VS Code (see [Text Editors / Code](/docs/apps/text-editors.html#code)), unless I have to write some form of long-text content, in which case I use iA Writer (see [Text Editors / Markdown](/apps/text-editors#markdown)).
+To edit these files I mainly use Nova or VS Code (see [Text Editors / Code](/docs/apps/text-editors.html#code)), unless I have to write some form of long-text content, in which case I use iA Writer (see [Text Editors / Markdown](/apps/text-editors.html#markdown)).
 
 If I'm not at my computer, or I want to do a quick edit, I can also use the *Edit* link at the bottom of the page to open it directly on GitHub.
 
