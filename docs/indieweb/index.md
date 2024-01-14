@@ -22,17 +22,19 @@ For real. Nothing complicated [^arcade].
 
 ## Some nice website
 
+
 - [Robb Knight's website](https://rknight.me) by [Robb Knight](https://social.lol/@robb)
 - [A Very Good Blog](https://gkeenan.co/avgb) by [Keenan](https://social.lol/@keenan)
 - [Crash the Arcade](https://crashthearcade.com/) by [Mike Haynes](https://social.lol/@mikehaynes)]
 
 ## Static site generators
 
-Most of these, if not all, **cannot** be considered entry-level, since they require a technical background of some form. 
+Most of these, if not all, **cannot** be considered entry-level, since they require a technical background of some form.
 
 - [Static site generators (List)](https://jamstack.org/generators/)
 - Hugo
 - [Blot](https://blot.im) → [Notes](/docs/indieweb/blot)
+
 - Jekyll
 	- For example, this website runs on Jekyll
 - [11ty](https://www.11ty.dev/)
