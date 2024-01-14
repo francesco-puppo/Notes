@@ -179,11 +179,12 @@ li.nav-list-item.active,
 }
 
 .main-content .anchor-heading:hover svg {
-    color: var(--highlight--alt);
+    color: var(--highlight);
 }
 
 .main-content .anchor-heading svg:hover {
     color: var(--highlight);
+    opacity: 0.8;
 }
 
 /***
