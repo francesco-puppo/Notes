@@ -8,7 +8,7 @@ COLOURS
   --contrast: #002858;
   --contrast-alt: #054674;
   --highlight: #24b7a6;
-  --highlight-alt: rgba(36, 183, 166, 0.2);
+  --highlight-alt: rgba(36, 183, 166, 0.1);
   --shadow-one: rgba(0, 0, 0, 0.16) 0px 1px 4px;
 }
 
@@ -19,7 +19,7 @@ COLOURS
     --contrast: #FFFFFF;
     --contrast-alt: #E3E9EF;
     --highlight: #12CAB5;
-    --highlight-alt: rgba(18, 202, 181, 0.2);
+    --highlight-alt: rgba(18, 202, 181, 0.1);
   }
 }
 
@@ -50,8 +50,8 @@ h2,
 h3,
 h4,
 h5 {
-    font-family: 'Yeseva One', serif;
-    // font-weight: 900;
+    font-family: 'Archivo', sans-serif;
+    font-weight: 600;
     color: var(--contrast-alt);
     text-transform: uppercase;
 }
@@ -123,7 +123,7 @@ SITE TITLE
 
 .site-title {
     color: var(--highlight);
-    font-family: 'Yeseva One', serif;
+    font-family: 'Archivo', sans-serif;
     text-transform: uppercase;
     font-size: 1.2rem;
 }
