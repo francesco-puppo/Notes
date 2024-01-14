@@ -8,7 +8,7 @@ COLOURS
   --contrast: #15093e;
   --contrast-alt: #2a1c5a;
   --highlight: #24b7a6;
-  --highlight-alt: #82e8dc;
+  --highlight-alt: #cbf6f1;
   --shadow-one: rgba(0, 0, 0, 0.16) 0px 1px 4px;
 }
 
@@ -72,7 +72,7 @@ a {
 }
 
 a:not([class]) {
-    text-decoration-color: var(--highlight-alt);
+    text-decoration-color: var(--highlight);
 }
 
 a:not([class]):hover {
@@ -282,7 +282,7 @@ BREADCRUMBS
 }
 
 /***
-FOOTER
+SITE FOOTER
 ***/
 
 .site-footer a {
@@ -294,25 +294,26 @@ FOOTER
   border-radius: 0px;
   padding: 0.8rem;
   transition: all 0.25s ease-in-out;
-  border: solid 1.5px var(--background-alt);
+  // border: solid 1.5px var(--background-alt);
 }
 
 .site-footer a:hover {
   background: var(--highlight-alt);
   // color: var(--background-alt);
-  border: solid 1.5px var(--highlight-alt);
+  // border: solid 1.5px var(--highlight-alt);
 }
 
 .site-footer a strong {
   color: var(--highlight);
   font-weight: 500;
-  text-decoration: none;
+  text-decoration: underline;
+  text-decoration-color: var(--highlight)
   border-bottom: solid 1px transparent;
   transition: all 0.25s ease-in-out;
 }
 
 .site-footer a:hover strong{
-  color: var(--background-alt);
+  color: var(--highlight);
   // border-bottom: solid 1px var(--highlight);
 }
 
