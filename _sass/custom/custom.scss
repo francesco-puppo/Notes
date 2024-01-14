@@ -114,10 +114,11 @@ HEADER
 }
 
 .site-title {
-    color: var(--contrast-alt);
+    color: var(--highlight);
     font-family: 'Archivo', sans-serif;
     font-weight: 800;
     text-transform: uppercase;
+    font-size: 1.2rem;
 }
 
 .site-title:hover {
@@ -127,6 +128,10 @@ HEADER
 a.site-title span {
     font-size: .6rem;
     margin-right: 0.2rem;
+}
+
+.site-title {
+    font-size: 1.2rem !important;
 }
 
 /***
