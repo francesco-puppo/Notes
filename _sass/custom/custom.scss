@@ -5,8 +5,8 @@ COLOURS
 :root {
   --background: #FFFFFF;
   --background-alt: #e9eef3;
-  --contrast: #002858;
-  --contrast-alt: #054674;
+  --contrast: #15093e;
+  --contrast-alt: #2a1c5a;
   --highlight: #24b7a6;
   --highlight-alt: rgba(36, 183, 166, 0.1);
   --shadow-one: rgba(0, 0, 0, 0.16) 0px 1px 4px;
@@ -14,8 +14,8 @@ COLOURS
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #002858;
-    --background-alt: #054674;
+    --background: #15093e;
+    --background-alt: #2a1c5a;
     --contrast: #FFFFFF;
     --contrast-alt: #E3E9EF;
     --highlight: #12CAB5;
