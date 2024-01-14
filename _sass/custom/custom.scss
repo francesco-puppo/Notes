@@ -218,7 +218,7 @@ BLOCK QUOTE
 
 .main-content blockquote {
 
-    border-left: 3px solid var(--background);
+    border-left: 3px solid var(--background-alt);
     font-style: italic;
 }
 
@@ -280,26 +280,26 @@ FOOTER
   border-radius: 0px;
   padding: 0.8rem;
   transition: all 0.25s ease-in-out;
-  border: solid 1px var(--background-alt);
+  border: solid 1.5px var(--background-alt);
 }
 
 .site-footer a:hover {
-  background: var(--highlight--alt);
-  color: var(--background);
+  background: var(--highlight);
+  color: var(--background-alt);
   border: solid 1.5px var(--highlight);
 }
 
 .site-footer a strong {
   color: var(--highlight);
-  font-weight: 700;
+  font-weight: 500;
   text-decoration: none;
   border-bottom: solid 1px transparent;
   transition: all 0.25s ease-in-out;
 }
 
 .site-footer a:hover strong{
-  // color: var(--background-alt);
-  border-bottom: solid 1px var(--highlight);
+  color: var(--background-alt);
+  // border-bottom: solid 1px var(--highlight);
 }
 
 /***
@@ -331,12 +331,17 @@ PAGE FOOTER
 .main-content footer p.text-small.text-grey-dk-100.mb-0 a:hover {
     // border: solid 2px var(--highlight);
     // background: var(--highlight);
-    color: var(--highlight--alt);
-    text-decoration-color: var(--highlight--alt);
+    color: var(--highlight);
+    text-decoration-color: var(--highlight);
 }
 
 .main-content footer p.text-small.text-grey-dk-100.mb-0 a i {
   color: var(--contrast);
+  margin-right: 8px;
+}
+
+.main-content footer p.text-small.text-grey-dk-100.mb-0 a:hover i {
+  color: var(--highlight);
   margin-right: 8px;
 }
 
