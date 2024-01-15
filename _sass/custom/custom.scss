@@ -5,6 +5,7 @@ COLOURS
 :root {
   --background: #FFFFFF;
   --background-alt: #F8F8F8;
+  --background-alt2: #c9b6bc;
   --contrast: #03111f;;
   --contrast-alt: #051628;
   --highlight: #ff0063;
@@ -395,7 +396,7 @@ PAGE FOOTER
 }
 
 a#edit-this-page {
-    color: var(--background);
+    color: var(--background-alt2);
     text-decoration: none;
     border-bottom: solid 1px transparent;
     transition: all 0.25s ease-in-out;
