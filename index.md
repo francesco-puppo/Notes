@@ -28,7 +28,7 @@ I personally use Jekyll + GitHub to run this thing (see [here for more](/docs/me
 
 Well, it's about anything that interests me, really...
 
-You'll see that I write mainly about [User Experience](/docs/ux), [Design](/docs/design), [Apple](/docs/apple) stuff, [Apps](/docs/apps) I try, but also [Movies and TV shows](/docs/movie-tv).
+You'll see that I write mainly about [User Experience](/docs/ux), [Design](/docs/design), [Apple](/docs/apple) stuff, [Apps](/docs/apps) I try, but also [Movies and TV shows](/docs/movies-tv).
 
 ## Want to help?
 

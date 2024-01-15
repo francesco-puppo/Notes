@@ -109,6 +109,7 @@ del {
 FOOTNOTES AND OTHERS
 ***/
 
+.main-content summary,
 .text-delta,
 h6 {
     font-family: 'Silkscreen', sans-serif;
@@ -131,6 +132,22 @@ h6 {
     font-family: 'Silkscreen', sans-serif;
     font-size: 1rem;
     color: var(--contrast-alt);
+}
+
+// Table of contents
+
+details{
+  color: var(--highlight);
+  background: var(--theme-two);
+  padding: 1rem 1.5rem;
+}
+
+details li a:not([class]) {
+    text-decoration: none;
+}
+
+summary::marker {
+  color: var(--highlight);
 }
 
 /***
