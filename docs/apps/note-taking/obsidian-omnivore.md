@@ -40,7 +40,15 @@ To do this, I filtered the plugin to **only fetch articles that have been highli
 
 And I changed the **Front Matter template** to fit into Jekyll's template
 
+<<<<<<< HEAD
 ```html
+=======
+<<<<<<< HEAD
+```html
+=======
+```
+>>>>>>> main
+>>>>>>> main
 id: {{{id}}}
 layout: default
 title: {{{title}}}
