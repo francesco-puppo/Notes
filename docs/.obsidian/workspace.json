@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "productivity/time-blocking.md",
-                "mode": "source",
+                "file": "travel/index.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "productivity/time-blocking.md",
+                "file": "travel/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "productivity/time-blocking.md",
+                "file": "travel/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "productivity/time-blocking.md"
+                "file": "travel/index.md"
               }
             }
           },
@@ -159,8 +159,10 @@
   },
   "active": "49ee68b360b0cf7e",
   "lastOpenFiles": [
-    "productivity/keep-it-simple.md",
+    "travel/travel.md",
+    "travel/index.md",
     "productivity/time-blocking.md",
+    "productivity/keep-it-simple.md",
     "productivity/index.md",
     "coding/css.md",
     "zzz_templates/index.md",
@@ -185,7 +187,6 @@
     "product-design/software-should-unbloat-over-time.md",
     "apps/bear.md",
     "indieweb",
-    "product-design/fast-software-best-software.md",
     "_inbox/untitled file",
     "_inbox",
     "untitled folder",
@@ -193,7 +194,6 @@
     "books",
     "ux/untitled file",
     "product-design/untitled file",
-    "apps/text-editors.md.md",
     "ux"
   ]
 }

@@ -1,5 +1,8 @@
 {
-  "accentColor": "",
+  "accentColor": "#ff0063",
   "showViewHeader": true,
-  "cssTheme": ""
+  "cssTheme": "Typora-Vue",
+  "interfaceFontFamily": "",
+  "textFontFamily": "Avenir",
+  "monospaceFontFamily": "JetBrains Mono"
 }
