@@ -13,17 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "docs/apps/apple-mail.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "8837a8ee403655f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
 <<<<<<< HEAD
-                "file": "docs/markdown/index.md",
+                "file": "docs/apps/text-editors.md",
 =======
-                "file": "docs/productivity/time-blocking.md",
+                "file": "docs/apps/note-taking/bear.md",
 >>>>>>> main
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -52,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "last_",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 273.5
   },
   "right": {
     "id": "ec8b7988458f0df6",
@@ -90,9 +103,9 @@
               "type": "backlink",
               "state": {
 <<<<<<< HEAD
-                "file": "docs/markdown/index.md",
+                "file": "docs/apps/text-editors.md",
 =======
-                "file": "docs/productivity/time-blocking.md",
+                "file": "docs/apps/note-taking/bear.md",
 >>>>>>> main
                 "collapseAll": false,
                 "extraContext": false,
@@ -111,9 +124,9 @@
               "type": "outgoing-link",
               "state": {
 <<<<<<< HEAD
-                "file": "docs/markdown/index.md",
+                "file": "docs/apps/text-editors.md",
 =======
-                "file": "docs/productivity/time-blocking.md",
+                "file": "docs/apps/note-taking/bear.md",
 >>>>>>> main
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
@@ -138,9 +151,9 @@
               "type": "outline",
               "state": {
 <<<<<<< HEAD
-                "file": "docs/markdown/index.md"
+                "file": "docs/apps/text-editors.md"
 =======
-                "file": "docs/productivity/time-blocking.md"
+                "file": "docs/apps/note-taking/bear.md"
 >>>>>>> main
               }
             }
@@ -173,12 +186,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "28b520a8e6a90f4e",
+  "active": "8837a8ee403655f1",
   "lastOpenFiles": [
+    "docs/apps/apple-mail.md",
 <<<<<<< HEAD
-    "docs/productivity/time-blocking.md",
+    "docs/apps/note-taking/workflowy.md",
+    "docs/apps/note-taking/bear.md",
+    "docs/apps/task-managers/things3.md",
+    "docs/apps/mymind.md",
+    "docs/apps/index.md",
 =======
 >>>>>>> main
+    "assets/images/2024-01-15_mail-filters-01.png",
+    "docs/meta/index.md",
+    "docs/apple/macos.md",
+    "docs/apps/utilities/raycast.md",
+    "docs/apps/note-taking/note-taking.md",
+    "docs/apps/utlities",
+    "docs/apps/note-taking.md",
+    "_plugins/_tag_gen.rb",
+    "_plugins",
+    "_layouts/tag_index.html",
+    "_layouts",
+    "docs/apps/note-taking/things3.md",
+    "docs/meta/todo.md",
+    "_plugins/untitled file",
+    "untitled folder",
+    "_layouts/untitled file",
+    "docs/apple/keyboard-snippets.md",
+    "docs/productivity/index.md",
+    "docs/_inbox/mac-as-a-place.md",
+    "README.md",
+    "docs/markdown/index.md",
+    "docs/productivity/time-blocking.md",
     "assets/favicon/favicon_notes.svg",
     "assets/favicon/favicon_notes_s.png",
     "assets/favicon/favicon_notes_m.png",
@@ -189,33 +229,12 @@
     "productivity/index.md",
     "coding/css.md",
     "zzz_templates/index.md",
+<<<<<<< HEAD
+=======
     "zzz_templates/page.md",
     "courses/index.md.md",
-    "coding/index.md",
-    "books/index.md",
-    "books/non-fiction.md",
-    "apps/text-editors.md",
-    "apps/index.md",
-    "_inbox/pen-and-pencile.md",
-    "_inbox/mac-as-a-place.md",
-    "indieweb/index.md",
-    "work/productivity.md",
-    "work/index.md",
+>>>>>>> main
     "coding",
-    "product-design/index.md",
-    "ux/index.md",
-    "ux/clarity-trumps-consistency.md",
-    "ux/resources.md",
-    "product-design/my-product-design-principles.md",
-    "product-design/software-should-unbloat-over-time.md",
-    "indieweb",
-    "_inbox/untitled file",
-    "_inbox",
-    "untitled folder",
-    "books/untitled file",
-    "books",
-    "ux/untitled file",
-    "product-design/untitled file",
-    "ux"
+    "indieweb"
   ]
 }
