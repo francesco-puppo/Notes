@@ -413,13 +413,21 @@ a#edit-this-page:hover {
 }
 
 /***
-TABLE 
+TABLES
 ***/
 
-th,td {
-    background-color: var(--theme-two);
-    border-color: var(--theme);
+  th,td {
+    background-color: var(--theme);
+    border-color: var(--theme-two);
 }
+
+@media (prefers-color-scheme: dark) {
+  th,td {
+      background-color: var(--theme-two);
+      border-color: var(--theme);
+  }
+}
+
 
 /***
 MENU

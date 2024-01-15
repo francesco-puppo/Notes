@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/apps/utilities/raycast.md",
+                "file": "docs/apps/apple-mail.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "8837a8ee403655f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/apple/macos.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/apps/utilities/raycast.md",
+                "file": "docs/apple/macos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/apps/utilities/raycast.md",
+                "file": "docs/apple/macos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/apps/utilities/raycast.md"
+                "file": "docs/apple/macos.md"
               }
             }
           },
@@ -157,8 +170,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "28b520a8e6a90f4e",
+  "active": "8837a8ee403655f1",
   "lastOpenFiles": [
+    "docs/apps/apple-mail.md",
+    "docs/apps/utilities/raycast.md",
     "docs/apps/note-taking/note-taking.md",
     "docs/apps/utlities",
     "docs/apps/note-taking.md",
@@ -194,8 +209,6 @@
     "zzz_templates/page.md",
     "courses/index.md.md",
     "coding/index.md",
-    "books/index.md",
-    "books/non-fiction.md",
     "coding",
     "indieweb"
   ]
