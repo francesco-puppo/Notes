@@ -9,6 +9,26 @@ has_toc: false
 
 ## Snippets
 
+### Table of contents (Jekyll)
+
+This is the code I use on this site to display the TOC.
+
+```md
+# {{ page.title }} (circa 2008)
+{: .no_toc }
+
+<details markdown="block">
+  
+  <summary>
+Table of contents
+  </summary>
+  
+- TOC
+{:toc}
+
+</details>
+```
+
 ### Table with no headers
 
 ```md
