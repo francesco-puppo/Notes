@@ -14,7 +14,7 @@ has_toc: false
 This is the code I use on this site to display the TOC.
 
 ```md
-# {{ page.title }} (circa 2008)
+# Page title
 {: .no_toc }
 
 <details markdown="block">
