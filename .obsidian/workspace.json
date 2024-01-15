@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/productivity/todoist-zen.md",
+                "file": "docs/apps/text-editors.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/productivity/todoist-zen.md",
+                "file": "docs/apps/text-editors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/productivity/todoist-zen.md",
+                "file": "docs/apps/text-editors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/productivity/todoist-zen.md"
+                "file": "docs/apps/text-editors.md"
               }
             }
           },
@@ -172,9 +172,10 @@
   },
   "active": "8837a8ee403655f1",
   "lastOpenFiles": [
+    "docs/productivity/todoist-zen.md",
+    "docs/productivity/todoist-zen 2.md",
     "assets/images/2024-01-15_todoist.jpeg",
     "docs/apps/text-editors.md",
-    "docs/productivity/todoist-zen.md",
     "docs/apps/apple-mail.md",
     "docs/apps/note-taking/workflowy.md",
     "docs/apps/note-taking/bear.md",
