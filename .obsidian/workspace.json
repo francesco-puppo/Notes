@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/research/Designing A Better Design Handoff File In Figma — Smashing Magazine.md",
+                "file": "docs/research/The Tyranny of the Marginal User - by Ivan Vendrov.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/research/Designing A Better Design Handoff File In Figma — Smashing Magazine.md",
+                "file": "docs/research/The Tyranny of the Marginal User - by Ivan Vendrov.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/research/Designing A Better Design Handoff File In Figma — Smashing Magazine.md",
+                "file": "docs/research/The Tyranny of the Marginal User - by Ivan Vendrov.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/research/Designing A Better Design Handoff File In Figma — Smashing Magazine.md"
+                "file": "docs/research/The Tyranny of the Marginal User - by Ivan Vendrov.md"
               }
             }
           },
@@ -160,8 +160,9 @@
   },
   "active": "6f257d75d6e107bb",
   "lastOpenFiles": [
-    "docs/research/Work Journal - Plaintext Productivity.md",
+    "docs/research/Plain Text Journaling System – The Overthinker.md",
     "docs/research/Designing A Better Design Handoff File In Figma — Smashing Magazine.md",
+    "docs/research/Work Journal - Plaintext Productivity.md",
     "docs/research/Good design is invisible- an interview with iA's Oliver Reichenstein - The Verge.md",
     "docs/research/Writing to Think.md",
     "docs/research/The Tyranny of the Marginal User - by Ivan Vendrov.md",
@@ -173,7 +174,6 @@
     "docs/research/The beauty of finished software - Jose M..md",
     "docs/research/Your customers hate MVPs. Make a SLC instead..md",
     "docs/research/Solving the Productivity Paradox - The New Yorker.md",
-    "docs/research/Plain Text Journaling System – The Overthinker.md",
     "docs/research/Drafts Folder for Plaintext Drafts and Notes - Plaintext Productivity.md",
     "docs/research/index.md",
     "docs/indieweb/jekyll.md",

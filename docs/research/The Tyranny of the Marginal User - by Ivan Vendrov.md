@@ -7,6 +7,8 @@ parent: Research
 
 # The Tyranny of the Marginal User - by Ivan Vendrov
 
+Extremely interesting article on why popular apps get worse with time, instead of the opposite.
+
 ## Highlights
 
 > Reddit and Craigslist remain incredibly useful and valuable precisely because their software remains frozen in time.
