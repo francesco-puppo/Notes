@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Moo.com rules 
-parent: UX principles
+parent: UX Principles
 grand_parent: User Experience
 ---
 
