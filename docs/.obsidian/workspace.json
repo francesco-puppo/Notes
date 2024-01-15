@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coding/css.md",
+                "file": "productivity/time-blocking.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coding/css.md",
+                "file": "productivity/time-blocking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coding/css.md",
+                "file": "productivity/time-blocking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coding/css.md"
+                "file": "productivity/time-blocking.md"
               }
             }
           },
@@ -159,13 +159,16 @@
   },
   "active": "49ee68b360b0cf7e",
   "lastOpenFiles": [
+    "productivity/keep-it-simple.md",
+    "productivity/time-blocking.md",
+    "productivity/index.md",
+    "coding/css.md",
     "zzz_templates/index.md",
     "zzz_templates/page.md",
     "courses/index.md.md",
     "coding/index.md",
     "books/index.md",
     "books/non-fiction.md",
-    "coding/css.md",
     "apps/text-editors.md",
     "apps/index.md",
     "_inbox/pen-and-pencile.md",
@@ -191,7 +194,6 @@
     "ux/untitled file",
     "product-design/untitled file",
     "apps/text-editors.md.md",
-    "product-design/settings-vs-preferences.md",
     "ux"
   ]
 }
