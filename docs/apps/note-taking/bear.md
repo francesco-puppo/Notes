@@ -3,9 +3,6 @@ layout: default
 title: Bear
 parent: Note taking
 grand_parent: Apps
-tags:
-- jekyll
-- code
 ---
 
 # Bear

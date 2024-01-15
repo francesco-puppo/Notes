@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/apple/macos.md",
+                "file": "docs/apps/text-editors.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/apple/macos.md",
+                "file": "docs/apps/text-editors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/apple/macos.md",
+                "file": "docs/apps/text-editors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/apple/macos.md"
+                "file": "docs/apps/text-editors.md"
               }
             }
           },
@@ -173,25 +173,29 @@
   "active": "8837a8ee403655f1",
   "lastOpenFiles": [
     "docs/apps/apple-mail.md",
+    "docs/apps/note-taking/workflowy.md",
+    "docs/apps/note-taking/bear.md",
+    "docs/apps/task-managers/things3.md",
+    "docs/apps/mymind.md",
+    "docs/apps/index.md",
+    "assets/images/2024-01-15_mail-filters-01.png",
+    "docs/meta/index.md",
+    "docs/apple/macos.md",
     "docs/apps/utilities/raycast.md",
     "docs/apps/note-taking/note-taking.md",
     "docs/apps/utlities",
     "docs/apps/note-taking.md",
-    "docs/meta/index.md",
     "_plugins/_tag_gen.rb",
     "_plugins",
     "_layouts/tag_index.html",
     "_layouts",
-    "docs/apps/note-taking/workflowy.md",
     "docs/apps/note-taking/things3.md",
-    "docs/apps/note-taking/bear.md",
     "docs/meta/todo.md",
     "_plugins/untitled file",
     "untitled folder",
     "_layouts/untitled file",
     "docs/apple/keyboard-snippets.md",
     "docs/productivity/index.md",
-    "docs/apple/macos.md",
     "docs/_inbox/mac-as-a-place.md",
     "README.md",
     "docs/markdown/index.md",
@@ -206,9 +210,6 @@
     "productivity/index.md",
     "coding/css.md",
     "zzz_templates/index.md",
-    "zzz_templates/page.md",
-    "courses/index.md.md",
-    "coding/index.md",
     "coding",
     "indieweb"
   ]
