@@ -11,7 +11,7 @@ I use Omnivore to save research-related articles and read them later.
 
 It's nice because it's free and open-source, it has highlights, and it syncs with [Obsidian](/docs/apps/note-taking/obsidian).
   
-<details>
+<details markdown="block">
 <summary>
 My setup
 </summary>
