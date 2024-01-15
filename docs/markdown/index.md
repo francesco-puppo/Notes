@@ -26,7 +26,7 @@ Stuff  | More things
 
 ### Apps
 
-For standard text editors see[Note taking apps](/docs/apps/note-taking). The one below are more *particular/unique* ones. 
+For standard text editors see [Note taking apps](/docs/apps/note-taking). The one below are more <mark>particular or unique ones</mark>. 
 
 - [Markwhen](https://markwhen.com/): Offline-first, plain text calendar and planning app
 - [Buttondown](https://buttondown.email/): Write newsletter using Markdown
