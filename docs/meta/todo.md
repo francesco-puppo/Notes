@@ -16,9 +16,9 @@ A list of stuff I have to do for this website.
 
 ### Styling
 
-- [ ] Find a way to open links in a new tab
 - [ ] Change colours of code blocks
-- [ ] Improve colour scheme
+- [x] Improve colour scheme
+- [ ] ~~Find a way to open links in a new tab~~
 
 ### Content
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "docs/apple/keyboard-snippets.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "docs/apple/keyboard-snippets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "docs/apple/keyboard-snippets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "docs/apple/keyboard-snippets.md"
               }
             }
           },
@@ -159,6 +159,11 @@
   },
   "active": "28b520a8e6a90f4e",
   "lastOpenFiles": [
+    "docs/productivity/index.md",
+    "docs/meta/todo.md",
+    "docs/apple/macos.md",
+    "docs/_inbox/mac-as-a-place.md",
+    "README.md",
     "docs/markdown/index.md",
     "docs/productivity/time-blocking.md",
     "assets/favicon/favicon_notes.svg",
@@ -184,11 +189,6 @@
     "work/productivity.md",
     "work/index.md",
     "coding",
-    "product-design/index.md",
-    "ux/index.md",
-    "ux/clarity-trumps-consistency.md",
-    "ux/resources.md",
-    "product-design/my-product-design-principles.md",
     "indieweb",
     "_inbox/untitled file",
     "_inbox",
