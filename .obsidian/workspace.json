@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8c4a3f9bd0b56d2b",
+            "id": "6f257d75d6e107bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/research/8 Design Guidelines for Complex Applications.md",
-                "mode": "source",
+                "file": "docs/research/index.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/research/8 Design Guidelines for Complex Applications.md",
+                "file": "docs/research/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/research/8 Design Guidelines for Complex Applications.md",
+                "file": "docs/research/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/research/8 Design Guidelines for Complex Applications.md"
+                "file": "docs/research/index.md"
               }
             }
           },
@@ -158,9 +158,8 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "8c4a3f9bd0b56d2b",
+  "active": "6f257d75d6e107bb",
   "lastOpenFiles": [
-    "docs/research/index.md",
     "docs/research/Good design is invisible- an interview with iA's Oliver Reichenstein - The Verge.md",
     "docs/research/Writing to Think.md",
     "docs/research/The Tyranny of the Marginal User - by Ivan Vendrov.md",
@@ -186,6 +185,7 @@
     "docs/research/Standing Lists for GTD or Other Organizational Systems - Plaintext Productivity.md",
     "docs/research/The Plain Text Life- Note Taking, Writing and Life Organization Using Plain Text Files - Mark Koe....md",
     "docs/research/Plain Text Journaling System – The Overthinker.md",
+    "docs/research/Plain Text.md",
     "docs/research/untitled file",
     "docs/apps/note-taking/obsidian.md.sb-7891537a-rT3JUS",
     "docs/research",
