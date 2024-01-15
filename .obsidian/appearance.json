@@ -1,4 +1,8 @@
 {
-  "accentColor": "",
-  "textFontFamily": "iA Writer Mono V"
+  "accentColor": "#ff0063",
+  "showViewHeader": true,
+  "cssTheme": "Typora-Vue",
+  "interfaceFontFamily": "",
+  "textFontFamily": "Avenir",
+  "monospaceFontFamily": "JetBrains Mono"
 }

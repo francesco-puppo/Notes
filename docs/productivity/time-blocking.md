@@ -28,7 +28,8 @@ I use a note in Apple Notes to remind myself of the tasks I usually do on a day-
 
 ![A note in Apple Notes with a list of tasks or events I need or want to do most days](/assets/images/2024-01-15_make-time.png)
 
-At the same time I use Things to list all of my tasks and block time also for those, when needed. I try to group them if possible, so I may have an event that say *Personal tasks* and, when the time comes, I can filter Things 3 to know what I have to do that day.
+At the same time I use Things to list all of my tasks and block time also for those, when needed.\ 
+I try to group them if possible, so I may have an event that say *Personal tasks* and, when the time comes, I can filter Things 3 to know what I have to do that day.
 
 ## Resources
 
