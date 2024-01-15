@@ -11,6 +11,7 @@ A list of stuff I have to do for this website.
 ### System
 
 - [ ] Improve search on mobile
+- [ ] Add tags to pages (or collections?)
 - [ ] Add RSS feed for updates
 - [x] Add Edit in GitHub button
 

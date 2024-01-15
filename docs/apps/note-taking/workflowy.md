@@ -3,8 +3,7 @@ layout: default
 title: Workflowy
 parent: Note taking
 grand_parent: Apps
-tags: [note taking, infinite-list]
-last_updated: 2024-01-15 12:45
+last_modified: 2024-01-15 12:45
 ---
 
 # {{ page.title }}

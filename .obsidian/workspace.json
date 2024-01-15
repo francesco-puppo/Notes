@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/apps/note-taking/workflowy.md",
+                "file": "docs/meta/index.md",
                 "mode": "source",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "last_",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/apps/note-taking/workflowy.md",
+                "file": "docs/meta/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/apps/note-taking/workflowy.md",
+                "file": "docs/meta/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/apps/note-taking/workflowy.md"
+                "file": "docs/meta/index.md"
               }
             }
           },
@@ -159,12 +160,19 @@
   },
   "active": "28b520a8e6a90f4e",
   "lastOpenFiles": [
-    "docs/apps/note-taking/things3.md",
     "docs/apps/note-taking/workflowy.md",
+    "docs/apps/note-taking/things3.md",
     "docs/apps/note-taking/bear.md",
+    "docs/meta/todo.md",
+    "_plugins/_tag_gen.rb",
+    "_plugins/untitled file",
+    "_plugins",
+    "untitled folder",
+    "_layouts/tag_index.html",
+    "_layouts/untitled file",
+    "_layouts",
     "docs/apple/keyboard-snippets.md",
     "docs/productivity/index.md",
-    "docs/meta/todo.md",
     "docs/apple/macos.md",
     "docs/_inbox/mac-as-a-place.md",
     "README.md",
@@ -187,16 +195,8 @@
     "books/non-fiction.md",
     "apps/text-editors.md",
     "apps/index.md",
-    "_inbox/pen-and-pencile.md",
     "coding",
     "indieweb",
-    "_inbox/untitled file",
-    "_inbox",
-    "untitled folder",
-    "books/untitled file",
-    "books",
-    "ux/untitled file",
-    "product-design/untitled file",
-    "ux"
+    "_inbox/untitled file"
   ]
 }
