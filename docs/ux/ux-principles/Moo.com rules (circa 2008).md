@@ -11,8 +11,7 @@ grand_parent: User Experience
 <details markdown="block">
   
   <summary>
-## Table of contents
-{: .no_toc .text-delta }
+Table of contents
   </summary>
   
 - TOC
