@@ -6,7 +6,11 @@ parent: Productivity
 
 # {{ page.title }}
 
+<<<<<<< HEAD:docs/productivity/todoist-zen 2.md
 ![See list below](/assets/images/2024-01-15_todoist.jpeg)
+=======
+![[/assets/images/2024-01-15_todoist.jpeg]]
+>>>>>>> main:docs/productivity/todoist-zen.md
 
 - Now is better than later.
 - Later is better than never.
