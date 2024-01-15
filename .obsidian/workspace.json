@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/apple/keyboard-snippets.md",
+                "file": "docs/apps/note-taking/workflowy.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/apple/keyboard-snippets.md",
+                "file": "docs/apps/note-taking/workflowy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/apple/keyboard-snippets.md",
+                "file": "docs/apps/note-taking/workflowy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/apple/keyboard-snippets.md"
+                "file": "docs/apps/note-taking/workflowy.md"
               }
             }
           },
@@ -159,6 +159,10 @@
   },
   "active": "28b520a8e6a90f4e",
   "lastOpenFiles": [
+    "docs/apps/note-taking/things3.md",
+    "docs/apps/note-taking/workflowy.md",
+    "docs/apps/note-taking/bear.md",
+    "docs/apple/keyboard-snippets.md",
     "docs/productivity/index.md",
     "docs/meta/todo.md",
     "docs/apple/macos.md",
@@ -184,10 +188,6 @@
     "apps/text-editors.md",
     "apps/index.md",
     "_inbox/pen-and-pencile.md",
-    "_inbox/mac-as-a-place.md",
-    "indieweb/index.md",
-    "work/productivity.md",
-    "work/index.md",
     "coding",
     "indieweb",
     "_inbox/untitled file",
