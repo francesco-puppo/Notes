@@ -1,5 +1,6 @@
 {
   "showInlineTitle": false,
   "livePreview": false,
-  "attachmentFolderPath": "assets/images"
+  "attachmentFolderPath": "assets/images",
+  "promptDelete": false
 }

@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "28b520a8e6a90f4e",
+            "id": "8c4a3f9bd0b56d2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/apps/apple-mail.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "8837a8ee403655f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/apps/text-editors.md",
+                "file": "docs/research/8 Design Guidelines for Complex Applications.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/apps/text-editors.md",
+                "file": "docs/research/8 Design Guidelines for Complex Applications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/apps/text-editors.md",
+                "file": "docs/research/8 Design Guidelines for Complex Applications.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/apps/text-editors.md"
+                "file": "docs/research/8 Design Guidelines for Complex Applications.md"
               }
             }
           },
@@ -167,51 +154,52 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "8837a8ee403655f1",
+  "active": "8c4a3f9bd0b56d2b",
   "lastOpenFiles": [
+    "docs/research/index.md",
+    "docs/research/Good design is invisible- an interview with iA's Oliver Reichenstein - The Verge.md",
+    "docs/research/Writing to Think.md",
+    "docs/research/The Tyranny of the Marginal User - by Ivan Vendrov.md",
+    "docs/research/How Developing Use Cases Helps in Designing User Interactions -- UXmatters.md",
+    "docs/research/Usability 101- Introduction to Usability.md",
+    "docs/research/Disruptive Workflow Design.md",
+    "docs/research/Reduce Redundancy- Decrease Duplicated Design Decisions.md",
+    "docs/research/8 Design Guidelines for Complex Applications.md",
+    "docs/research/Application Complexity- A 5-Layer Framework.md",
+    "docs/research/Assumed Audiences.md",
+    "docs/research/Exploring Universal And Cognitive-Friendly UX Design Through Pivot Tables And Grids — Smashing Ma....md",
+    "docs/research/Sustainable Design Toolkits And Frameworks — Smashing Magazine.md",
+    "docs/research/Squish Meets Structure- Designing with Language Models.md",
+    "docs/research/10 things we've learned about A-B testing for startups.md",
+    "docs/research/Boxed's wiki boosts speed and alignment.md",
+    "docs/research/The beauty of finished software - Jose M..md",
+    "docs/research/Your customers hate MVPs. Make a SLC instead..md",
+    "docs/research/Solving the Productivity Paradox - The New Yorker.md",
+    "docs/research/Drafts Folder for Plaintext Drafts and Notes - Plaintext Productivity.md",
+    "docs/research/Work Journal - Plaintext Productivity.md",
+    "docs/research/How I Organize My Todo.txt File - Plaintext Productivity.md",
+    "docs/research/File Folder Structure for Life - Plaintext Productivity.md",
+    "docs/research/Standing Lists for GTD or Other Organizational Systems - Plaintext Productivity.md",
+    "docs/research/The Plain Text Life- Note Taking, Writing and Life Organization Using Plain Text Files - Mark Koe....md",
+    "docs/research/Plain Text Journaling System – The Overthinker.md",
+    "docs/research/untitled file",
+    "docs/apps/note-taking/obsidian.md.sb-7891537a-rT3JUS",
+    "docs/research",
     "Notes.code-workspace",
-    "docs/productivity/todoist-zen.md",
-    "docs/productivity/todoist-zen 2.md",
     "assets/images/2024-01-15_todoist.jpeg",
-    "docs/apps/text-editors.md",
-    "docs/apps/apple-mail.md",
-    "docs/apps/note-taking/workflowy.md",
-    "docs/apps/note-taking/bear.md",
-    "docs/apps/task-managers/things3.md",
-    "docs/apps/mymind.md",
-    "docs/apps/index.md",
     "assets/images/2024-01-15_mail-filters-01.png",
-    "docs/meta/index.md",
-    "docs/apple/macos.md",
-    "docs/apps/utilities/raycast.md",
-    "docs/apps/note-taking/note-taking.md",
     "docs/apps/utlities",
-    "docs/apps/note-taking.md",
     "_plugins/_tag_gen.rb",
     "_plugins",
     "_layouts/tag_index.html",
     "_layouts",
-    "docs/apps/note-taking/things3.md",
-    "docs/meta/todo.md",
     "_plugins/untitled file",
-    "untitled folder",
-    "_layouts/untitled file",
-    "docs/apple/keyboard-snippets.md",
-    "docs/productivity/index.md",
-    "docs/_inbox/mac-as-a-place.md",
-    "README.md",
-    "docs/markdown/index.md",
-    "docs/productivity/time-blocking.md",
     "assets/favicon/favicon_notes.svg",
     "assets/favicon/favicon_notes_s.png",
-    "assets/favicon/favicon_notes_m.png",
-    "productivity/time-blocking.md",
-    "travel/index.md",
-    "travel/travel.md",
-    "coding",
-    "indieweb"
+    "assets/favicon/favicon_notes_m.png"
   ]
 }
