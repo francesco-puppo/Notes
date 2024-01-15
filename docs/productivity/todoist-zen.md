@@ -6,7 +6,6 @@ parent: Productivity
 
 # {{ page.title }}
 
-
 ![[/assets/images/2024-01-15_todoist.jpeg]]
 
 - Now is better than later.
