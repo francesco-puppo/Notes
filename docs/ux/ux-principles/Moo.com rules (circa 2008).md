@@ -8,11 +8,17 @@ grand_parent: User Experience
 # {{ page.title }} (circa 2008)
 {: .no_toc }
 
+<details markdown="block">
+  
+  <summary>
 ## Table of contents
 {: .no_toc .text-delta }
-
+  </summary>
+  
 - TOC
 {:toc}
+
+</details>
 
 ## Optimise for the common case
 Adding something to satisfy the needs of a small number of users confuses the rest. The tools we build should satisfy the needs of the majority of users.
