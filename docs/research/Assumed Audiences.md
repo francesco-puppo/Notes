@@ -1,6 +1,7 @@
 ---
 id: dbbea72f-0741-43be-ac27-205e671fea82
 layout: default
+template: default
 title: Assumed Audiences
 parent: Research
 ---
