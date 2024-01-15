@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Zen of Todoist.com
+title: The Zen of Todoist
 parent: Productivity
 ---
 

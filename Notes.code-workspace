@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"workbench.productIconTheme": "macos-modern",
+		"workbench.colorTheme": "GitHub Light",
+		"workbench.preferredDarkColorTheme": "GitHub Dark Default"
+	}
+}
