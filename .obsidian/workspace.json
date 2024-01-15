@@ -159,6 +159,13 @@
   },
   "active": "28b520a8e6a90f4e",
   "lastOpenFiles": [
+    "_plugins/_tag_gen.rb",
+    "_plugins/untitled file",
+    "_plugins",
+    "untitled folder",
+    "_layouts/tag_index.html",
+    "_layouts/untitled file",
+    "_layouts",
     "docs/apps/note-taking/things3.md",
     "docs/apps/note-taking/workflowy.md",
     "docs/apps/note-taking/bear.md",
@@ -187,16 +194,9 @@
     "books/non-fiction.md",
     "apps/text-editors.md",
     "apps/index.md",
-    "_inbox/pen-and-pencile.md",
     "coding",
     "indieweb",
     "_inbox/untitled file",
-    "_inbox",
-    "untitled folder",
-    "books/untitled file",
-    "books",
-    "ux/untitled file",
-    "product-design/untitled file",
-    "ux"
+    "_inbox"
   ]
 }
