@@ -267,14 +267,13 @@ BLOCK QUOTE
 ***/
 
 .main-content blockquote {
-
-    border-left: 3px solid var(--theme-two);
-    font-style: italic;
+    border-left: 3px solid var(--highlight);
+    background: var(--highlight-alt);
+    padding: 0.5rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    // font-style: italic;
 }
-
-// .main-content blockquote p {
-//   opacity: 0.8;
-// }
 
 /***
 SEARCH

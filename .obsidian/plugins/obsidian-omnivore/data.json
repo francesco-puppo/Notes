@@ -2,10 +2,10 @@
   "dateHighlightedFormat": "yyyy-MM-dd HH:mm:ss",
   "dateSavedFormat": "yyyy-MM-dd HH:mm:ss",
   "apiKey": "db5552e7-5c81-4068-aca7-4359874c754a",
-  "filter": "HIGHLIGHTS",
-  "syncAt": "2024-01-15T16:48:30",
-  "customQuery": "",
-  "template": "# {{{title}}}\n\n[Read on Omnivore]({{{omnivoreUrl}}}) | [Read Original]({{{originalUrl}}})\n\n{{#highlights.length}}\n## Highlights\n\n{{#highlights}}\n> {{{text}}}\n{{#note}}\n\n{{{note}}}\n{{/note}}\n\n{{/highlights}}\n{{/highlights.length}}",
+  "filter": "ADVANCED",
+  "syncAt": "2024-01-15T17:15:15",
+  "customQuery": "has:highlights",
+  "template": "# {{{title}}}\n\n{{#highlights.length}}\n## Highlights\n\n{{#highlights}}\n> {{{text}}}\n{{#note}}\n\n{{{note}}}\n{{/note}}\n\n{{/highlights}}\n{{/highlights.length}}\n\n---\n\n- [Source]({{{originalUrl}}})\n- [Read on Omnivore]({{{omnivoreUrl}}})",
   "highlightOrder": "LOCATION",
   "syncing": false,
   "folder": "docs/research",
@@ -19,5 +19,5 @@
   "frequency": 0,
   "intervalId": 0,
   "frontMatterVariables": [],
-  "frontMatterTemplate": "id: {{{id}}}\ntemplate: default\ntitle: {{{title}}}\nparent: Research"
+  "frontMatterTemplate": "id: {{{id}}}\nlayout: default\ntitle: {{{title}}}\nparent: Research"
 }

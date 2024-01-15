@@ -7,8 +7,6 @@ parent: Research
 
 # The beauty of finished software | Jose M.
 
-[Read on Omnivore](https://omnivore.app/me/the-beauty-of-finished-software-jose-m-18b90a6bcf7) | [Read Original](https://josem.co/the-beauty-of-finished-software/?mibextid=2JQ9oc)
-
 ## Highlights
 
 > the concept of finished software — a software you can use forever with no unneeded changes.
@@ -23,3 +21,8 @@ parent: Research
 > 
 > So the next time you find yourself yearning for the latest update, remember that sometimes, the best software is the one that doesn’t change at all.
 
+
+---
+
+- [Source](https://josem.co/the-beauty-of-finished-software/?mibextid=2JQ9oc)
+- [Read on Omnivore](https://omnivore.app/me/the-beauty-of-finished-software-jose-m-18b90a6bcf7)

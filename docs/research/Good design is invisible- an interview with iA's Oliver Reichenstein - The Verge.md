@@ -5,8 +5,6 @@ omnivore_error: There was an error parsing the front matter template. See consol
 
 # Good design is invisible: an interview with iA's Oliver Reichenstein | The Verge
 
-[Read on Omnivore](https://omnivore.app/me/good-design-is-invisible-an-interview-with-i-a-s-oliver-reichens-18c17649f82) | [Read Original](https://www.theverge.com/2012/7/24/3177332/ia-oliver-reichenstein-writer-interview-good-design-is-invisible)
-
 ## Highlights
 
 > I think the experience of being illiterate and then slowly growing back into society has made me a better designer.
@@ -49,3 +47,8 @@ omnivore_error: There was an error parsing the front matter template. See consol
 
 > The vision for what we do has stayed the same since I founded iA back in 2005: Reduce to the essence.
 
+
+---
+
+- [Source](https://www.theverge.com/2012/7/24/3177332/ia-oliver-reichenstein-writer-interview-good-design-is-invisible)
+- [Read on Omnivore](https://omnivore.app/me/good-design-is-invisible-an-interview-with-i-a-s-oliver-reichens-18c17649f82)

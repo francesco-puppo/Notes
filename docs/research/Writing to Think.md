@@ -7,8 +7,6 @@ parent: Research
 
 # Writing to Think
 
-[Read on Omnivore](https://omnivore.app/me/https-fs-blog-writing-to-think-18c147dc5bb) | [Read Original](https://fs.blog/writing-to-think/)
-
 ## Highlights
 
 > Writing forces you to slow down, focus your attention, and think deeply.
@@ -35,3 +33,8 @@ parent: Research
 
 > in a world where intellectual labor is increasingly outsourced to tools, the human aptitude for clear thinking and unique insights will become all the more valuable.
 
+
+---
+
+- [Source](https://fs.blog/writing-to-think/)
+- [Read on Omnivore](https://omnivore.app/me/https-fs-blog-writing-to-think-18c147dc5bb)

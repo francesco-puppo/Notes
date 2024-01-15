@@ -7,8 +7,6 @@ parent: Research
 
 # 10 things we've learned about A/B testing for startups
 
-[Read on Omnivore](https://omnivore.app/me/10-things-we-ve-learned-about-a-b-testing-for-startups-18bc8e0897b) | [Read Original](https://newsletter.posthog.com/p/10-things-weve-learned-about-ab-testing?ref=refind)
-
 ## Highlights
 
 > Booking.com runs an estimated 25,000 tests per year. [Only 10%](https://hbr.org/2020/03/building-a-culture-of-experimentation) of them generate positive results.
@@ -41,3 +39,8 @@ parent: Research
 > * **Data over debate.** Data trumps opinions, even for executives. You need buy-in from all levels of the organization.
 > * **Experiment with everything**. Say “I don’t know” and find out.
 
+
+---
+
+- [Source](https://newsletter.posthog.com/p/10-things-weve-learned-about-ab-testing?ref=refind)
+- [Read on Omnivore](https://omnivore.app/me/10-things-we-ve-learned-about-a-b-testing-for-startups-18bc8e0897b)

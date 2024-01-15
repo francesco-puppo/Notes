@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/research/index.md",
-                "mode": "preview",
+                "file": "docs/research/Work Journal - Plaintext Productivity.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/research/index.md",
+                "file": "docs/research/Work Journal - Plaintext Productivity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/research/index.md",
+                "file": "docs/research/Work Journal - Plaintext Productivity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/research/index.md"
+                "file": "docs/research/Work Journal - Plaintext Productivity.md"
               }
             }
           },
@@ -165,27 +165,27 @@
     "docs/research/The Tyranny of the Marginal User - by Ivan Vendrov.md",
     "docs/research/How Developing Use Cases Helps in Designing User Interactions -- UXmatters.md",
     "docs/research/Usability 101- Introduction to Usability.md",
+    "docs/research/Exploring Universal And Cognitive-Friendly UX Design Through Pivot Tables And Grids — Smashing Ma....md",
+    "docs/research/Sustainable Design Toolkits And Frameworks — Smashing Magazine.md",
+    "docs/research/10 things we've learned about A-B testing for startups.md",
+    "docs/research/The beauty of finished software - Jose M..md",
+    "docs/research/Your customers hate MVPs. Make a SLC instead..md",
+    "docs/research/Solving the Productivity Paradox - The New Yorker.md",
+    "docs/research/Plain Text Journaling System – The Overthinker.md",
+    "docs/research/Drafts Folder for Plaintext Drafts and Notes - Plaintext Productivity.md",
+    "docs/research/Work Journal - Plaintext Productivity.md",
+    "docs/research/index.md",
+    "docs/indieweb/jekyll.md",
     "docs/research/Disruptive Workflow Design.md",
     "docs/research/Reduce Redundancy- Decrease Duplicated Design Decisions.md",
     "docs/research/8 Design Guidelines for Complex Applications.md",
     "docs/research/Application Complexity- A 5-Layer Framework.md",
     "docs/research/Assumed Audiences.md",
-    "docs/research/Exploring Universal And Cognitive-Friendly UX Design Through Pivot Tables And Grids — Smashing Ma....md",
-    "docs/research/Sustainable Design Toolkits And Frameworks — Smashing Magazine.md",
     "docs/research/Squish Meets Structure- Designing with Language Models.md",
-    "docs/research/10 things we've learned about A-B testing for startups.md",
     "docs/research/Boxed's wiki boosts speed and alignment.md",
-    "docs/research/The beauty of finished software - Jose M..md",
-    "docs/research/Your customers hate MVPs. Make a SLC instead..md",
-    "docs/research/Solving the Productivity Paradox - The New Yorker.md",
-    "docs/research/Drafts Folder for Plaintext Drafts and Notes - Plaintext Productivity.md",
-    "docs/research/Work Journal - Plaintext Productivity.md",
     "docs/research/How I Organize My Todo.txt File - Plaintext Productivity.md",
     "docs/research/File Folder Structure for Life - Plaintext Productivity.md",
     "docs/research/Standing Lists for GTD or Other Organizational Systems - Plaintext Productivity.md",
-    "docs/research/The Plain Text Life- Note Taking, Writing and Life Organization Using Plain Text Files - Mark Koe....md",
-    "docs/research/Plain Text Journaling System – The Overthinker.md",
-    "docs/research/Plain Text.md",
     "docs/research/untitled file",
     "docs/apps/note-taking/obsidian.md.sb-7891537a-rT3JUS",
     "docs/research",

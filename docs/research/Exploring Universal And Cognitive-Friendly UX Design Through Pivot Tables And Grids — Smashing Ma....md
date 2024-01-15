@@ -7,8 +7,6 @@ parent: Research
 
 # Exploring Universal And Cognitive-Friendly UX Design Through Pivot Tables And Grids — Smashing Magazine
 
-[Read on Omnivore](https://omnivore.app/me/https-www-smashingmagazine-com-2023-06-universal-cognitive-frien-18bcce8a46d) | [Read Original](https://www.smashingmagazine.com/2023/06/universal-cognitive-friendly-ux-design-tables-grids/)
-
 ## Highlights
 
 > If you are worried about using too few or too many colors, apply the **60/30/10 rule**. It’s a basic pattern for any distribution selection. People use this strategy when budgeting assets like content and media, and it’s applicable to design. The rule says the color usage should be distributed as follows:
@@ -17,3 +15,8 @@ parent: Research
 > * **30%** for primary colors,
 > * **10%** for secondary colors (e.g., highlights, CTAs, and alerts).
 
+
+---
+
+- [Source](https://www.smashingmagazine.com/2023/06/universal-cognitive-friendly-ux-design-tables-grids/)
+- [Read on Omnivore](https://omnivore.app/me/https-www-smashingmagazine-com-2023-06-universal-cognitive-frien-18bcce8a46d)

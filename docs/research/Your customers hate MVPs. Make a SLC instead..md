@@ -7,8 +7,6 @@ parent: Research
 
 # Your customers hate MVPs. Make a SLC instead.
 
-[Read on Omnivore](https://omnivore.app/me/your-customers-hate-mv-ps-make-a-slc-instead-18b855f5851) | [Read Original](https://longform.asmartbear.com/slc?ref=refind)
-
 ## Highlights
 
 > It might be great for the product team, but it’s bad for customers. And ultimately, what’s bad for customers is bad for the company.
@@ -21,3 +19,8 @@ parent: Research
 
 > Not every product has to become complex. Not every product needs new major versions every two quarters. Some things can just remain simple, lovable, and complete.
 
+
+---
+
+- [Source](https://longform.asmartbear.com/slc?ref=refind)
+- [Read on Omnivore](https://omnivore.app/me/your-customers-hate-mv-ps-make-a-slc-instead-18b855f5851)

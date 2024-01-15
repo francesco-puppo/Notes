@@ -5,9 +5,12 @@ omnivore_error: There was an error parsing the front matter template. See consol
 
 # How Developing Use Cases Helps in Designing User Interactions :: UXmatters
 
-[Read on Omnivore](https://omnivore.app/me/https-www-uxmatters-com-mt-archives-2023-11-how-developing-use-c-18bf04d8bcc) | [Read Original](https://www.uxmatters.com/mt/archives/2023/11/how-developing-use-cases-helps-in-designing-user-interactions.php)
-
 ## Highlights
 
 > Use cases \[describe\] the functional requirements for a system from the user’s perspective.
 
+
+---
+
+- [Source](https://www.uxmatters.com/mt/archives/2023/11/how-developing-use-cases-helps-in-designing-user-interactions.php)
+- [Read on Omnivore](https://omnivore.app/me/https-www-uxmatters-com-mt-archives-2023-11-how-developing-use-c-18bf04d8bcc)

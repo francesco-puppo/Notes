@@ -5,9 +5,12 @@ omnivore_error: There was an error parsing the front matter template. See consol
 
 # Usability 101: Introduction to Usability
 
-[Read on Omnivore](https://omnivore.app/me/https-www-nngroup-com-articles-usability-101-introduction-to-usa-18becc9ce9c) | [Read Original](https://www.nngroup.com/articles/usability-101-introduction-to-usability/)
-
 ## Highlights
 
 > Usability is a **quality attribute** that assesses how easy user interfaces are to use.
 
+
+---
+
+- [Source](https://www.nngroup.com/articles/usability-101-introduction-to-usability/)
+- [Read on Omnivore](https://omnivore.app/me/https-www-nngroup-com-articles-usability-101-introduction-to-usa-18becc9ce9c)

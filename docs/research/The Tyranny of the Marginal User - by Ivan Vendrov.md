@@ -7,8 +7,6 @@ parent: Research
 
 # The Tyranny of the Marginal User - by Ivan Vendrov
 
-[Read on Omnivore](https://omnivore.app/me/the-tyranny-of-the-marginal-user-by-ivan-vendrov-18bfb80c38a) | [Read Original](https://nothinghuman.substack.com/p/the-tyranny-of-the-marginal-user?ref=refind)
-
 ## Highlights
 
 > Reddit and Craigslist remain incredibly useful and valuable precisely because their software remains frozen in time.
@@ -27,3 +25,8 @@ parent: Research
 
 > consumer software tools that enhance human agency, that serve us when we are most creative and intentional, are often built by hobbyists and used by a handful of nerds.
 
+
+---
+
+- [Source](https://nothinghuman.substack.com/p/the-tyranny-of-the-marginal-user?ref=refind)
+- [Read on Omnivore](https://omnivore.app/me/the-tyranny-of-the-marginal-user-by-ivan-vendrov-18bfb80c38a)
