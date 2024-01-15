@@ -4,39 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "667225c752c53df7",
+        "id": "fcee13f27389f882",
         "type": "tabs",
         "children": [
           {
-            "id": "49ee68b360b0cf7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "apps/bear.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e96d66ab131bfe16",
+            "id": "28b520a8e6a90f4e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
 <<<<<<< HEAD
-                "file": "ux/resources.md",
+                "file": "docs/markdown/index.md",
 =======
-                "file": "templates/page.md",
+                "file": "docs/productivity/time-blocking.md",
 >>>>>>> main
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,9 +90,9 @@
               "type": "backlink",
               "state": {
 <<<<<<< HEAD
-                "file": "ux/resources.md",
+                "file": "docs/markdown/index.md",
 =======
-                "file": "templates/page.md",
+                "file": "docs/productivity/time-blocking.md",
 >>>>>>> main
                 "collapseAll": false,
                 "extraContext": false,
@@ -124,9 +111,9 @@
               "type": "outgoing-link",
               "state": {
 <<<<<<< HEAD
-                "file": "ux/resources.md",
+                "file": "docs/markdown/index.md",
 =======
-                "file": "templates/page.md",
+                "file": "docs/productivity/time-blocking.md",
 >>>>>>> main
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
@@ -151,9 +138,9 @@
               "type": "outline",
               "state": {
 <<<<<<< HEAD
-                "file": "ux/resources.md"
+                "file": "docs/markdown/index.md"
 =======
-                "file": "templates/page.md"
+                "file": "docs/productivity/time-blocking.md"
 >>>>>>> main
               }
             }
@@ -186,35 +173,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e96d66ab131bfe16",
+  "active": "28b520a8e6a90f4e",
   "lastOpenFiles": [
-    "templates/index.md",
-    "product-design/settings-vs-preferences.md",
-    "product-design/my-product-design-principles.md",
-    "product-design/index.md",
-    "work/index.md",
-    "ux/index.md",
-    "ux/resources.md",
-    "apps/bear.md",
-    "apps/text-editors.md.md",
-    "apps/text-editors.md",
-    "templates/page.md",
 <<<<<<< HEAD
-    "templates/index.md",
-    "product-design/settings-vs-preferences.md",
-    "product-design/my-product-design-principles.md",
-    "product-design/index.md",
-    "work/index.md",
+    "docs/productivity/time-blocking.md",
 =======
 >>>>>>> main
-    "ux",
+    "assets/favicon/favicon_notes.svg",
+    "assets/favicon/favicon_notes_s.png",
+    "assets/favicon/favicon_notes_m.png",
+    "productivity/time-blocking.md",
+    "travel/index.md",
+    "travel/travel.md",
+    "productivity/keep-it-simple.md",
+    "productivity/index.md",
+    "coding/css.md",
+    "zzz_templates/index.md",
+    "zzz_templates/page.md",
     "courses/index.md.md",
-    "work",
-    "templates",
-<<<<<<< HEAD
-=======
-    "apps/bear.md",
->>>>>>> main
-    "courses"
+    "coding/index.md",
+    "books/index.md",
+    "books/non-fiction.md",
+    "apps/text-editors.md",
+    "apps/index.md",
+    "_inbox/pen-and-pencile.md",
+    "_inbox/mac-as-a-place.md",
+    "indieweb/index.md",
+    "work/productivity.md",
+    "work/index.md",
+    "coding",
+    "product-design/index.md",
+    "ux/index.md",
+    "ux/clarity-trumps-consistency.md",
+    "ux/resources.md",
+    "product-design/my-product-design-principles.md",
+    "product-design/software-should-unbloat-over-time.md",
+    "indieweb",
+    "_inbox/untitled file",
+    "_inbox",
+    "untitled folder",
+    "books/untitled file",
+    "books",
+    "ux/untitled file",
+    "product-design/untitled file",
+    "ux"
   ]
 }
