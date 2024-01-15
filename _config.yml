@@ -29,10 +29,3 @@ gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into t
 # Enable or disable the search button that appears in the bottom right corner of every page
 # Supports true or false (default)
 search.button: true
-
-
-collections:
-	apps
-		output: true
-		tags: infinite-list
-		permalink: /docs/apps/note-taking/:name
