@@ -228,6 +228,13 @@ li.nav-list-item.active,
     opacity: 0.8;
 }
 
+// Truncate nav link items to 1 line
+a.nav-list-link {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
 /***
 LISTS
 ***/
