@@ -10,7 +10,7 @@ The apps below are sorted on the basis of my personal appreciation for them.
 
 ## Code
 
-- [Nova](/docs/apps/text-editors/nova) - [website](https://nova.app/): A **beautiful**, native text editor for macOS
+- [Nova](/docs/apps/text-editors/nova): A **beautiful**, native text editor for macOS - [website](https://nova.app/)
 - Sublime Text - [website](https://www.sublimetext.com/)
 - VS Code - [website](https://code.visualstudio.com/)
 - BBEdit [website](https://www.barebones.com/products/bbedit/index.html)
