@@ -9,6 +9,7 @@ COLOURS
   --contrast-alt: #051628;
   --highlight: #ff0063;
   --highlight-alt: #ff006325;
+  --mark: #DCFEAE;
   --shadow-one: rgba(0, 0, 0, 0.16) 0px 1px 4px;
 }
 
@@ -87,6 +88,15 @@ a:not([class]) {
 a:not([class]):hover {
     color: var(--highlight);
     text-decoration-color: var(--highlight);
+}
+
+/***
+HIGHLIGHTS
+***/
+
+mark {
+    padding: 0rem 0.2rem;
+    background: var(--mark);
 }
 
 /***
