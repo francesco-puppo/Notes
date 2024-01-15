@@ -18,6 +18,7 @@ COLOURS
   :root {
     --theme: #03111f;
     --theme-two: #051628;
+    --theme-three: #0a2139;
     --contrast: #FFFFFF;
     --contrast-alt: #F8F8F8;
   }
@@ -409,6 +410,15 @@ a#edit-this-page {
 a#edit-this-page:hover {
     color: var(--highlight);
     border-bottom: solid 1px var(--highlight);
+}
+
+/***
+TABLE 
+***/
+
+th, td {
+    background-color: var(--theme-two);
+    border-color: var(--theme);
 }
 
 /***
