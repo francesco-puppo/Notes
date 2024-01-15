@@ -33,6 +33,7 @@ GENERAL
 
 body {
     background-color: var(--background);
+    margin: 0;
 }
 
 body,
@@ -422,6 +423,14 @@ MENU
 // text-decoration: none;
 display: block;
 }
+
+body,
+.main-content p,
+.main-content ul,
+.main-content ol {
+  font-size: 1.2rem;
+}
+
 }
 
 @media screen and (min-width: 800px) {
