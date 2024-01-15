@@ -6,7 +6,11 @@
 	],
 	"settings": {
 		"workbench.productIconTheme": "macos-modern",
-		"workbench.colorTheme": "GitHub Light",
-		"workbench.preferredDarkColorTheme": "GitHub Dark Default"
+		"workbench.colorTheme": "GitHub Dark Default",
+		"workbench.preferredDarkColorTheme": "GitHub Dark Default",
+		"editor.cursorBlinking": "smooth",
+		"editor.cursorSmoothCaretAnimation": "on",
+		"editor.cursorStyle": "block",
+		"editor.minimap.autohide": true
 	}
 }
