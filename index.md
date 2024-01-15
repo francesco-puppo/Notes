@@ -24,6 +24,12 @@ To quote Nikita once again:
 
 I personally use Jekyll + GitHub to run this thing (see [here for more](/docs/meta)).
 
+## What is it about?
+
+Well, it's about anything that interests me, really...
+
+You'll see that I write mainly about [User Experience](/docs/ux), [Design](/docs/design), [Apple](/docs/apple) stuff, [Apps](/docs/apps) I try, but also [Movies and TV shows](/docs/movie-tv).
+
 ## Want to help?
 
 - Send me interesting stuff you find around the web (but not only)
