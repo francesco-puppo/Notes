@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/markdown/index.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/markdown/index.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/markdown/index.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/markdown/index.md"
+                "file": "README.md"
               }
             }
           },
@@ -159,6 +159,7 @@
   },
   "active": "28b520a8e6a90f4e",
   "lastOpenFiles": [
+    "docs/markdown/index.md",
     "docs/productivity/time-blocking.md",
     "assets/favicon/favicon_notes.svg",
     "assets/favicon/favicon_notes_s.png",
@@ -188,7 +189,6 @@
     "ux/clarity-trumps-consistency.md",
     "ux/resources.md",
     "product-design/my-product-design-principles.md",
-    "product-design/software-should-unbloat-over-time.md",
     "indieweb",
     "_inbox/untitled file",
     "_inbox",
