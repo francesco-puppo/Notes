@@ -3,9 +3,9 @@ COLOURS
 ***/
 
 :root {
-  --background: #FFFFFF;
-  --background-alt: #F8F8F8;
-  --background-alt2: #c9b6bc;
+  --theme: #FFFFFF;
+  --theme-two: #F8F8F8;
+  --theme-three: #bcc8d3;
   --contrast: #03111f;;
   --contrast-alt: #051628;
   --highlight: #ff0063;
@@ -16,8 +16,8 @@ COLOURS
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #03111f;
-    --background-alt: #051628;
+    --theme: #03111f;
+    --theme-two: #051628;
     --contrast: #FFFFFF;
     --contrast-alt: #F8F8F8;
   }
@@ -34,7 +34,7 @@ GENERAL
 ***/
 
 body {
-    background-color: var(--background);
+    background-color: var(--theme);
     margin: 0;
 }
 
@@ -72,7 +72,7 @@ h5::before {
 }
 
 hr {
-    background-color: var(--background-alt);
+    background-color: var(--theme-two);
 }
 
 /* Links */
@@ -100,6 +100,10 @@ mark {
     background: var(--mark);
 }
 
+del {
+  color: var(--theme-three);
+}
+
 /***
 FOOTNOTES AND OTHERS
 ***/
@@ -116,7 +120,7 @@ h6 {
 
 .footnotes {
     padding: 1rem;
-    background-color: var(--background-alt);
+    background-color: var(--theme-two);
     margin-top: 60px;
 }
 
@@ -133,12 +137,12 @@ HEADER
 ***/
 
 .site-header {
-    border-bottom: 1px solid var(--background);
+    border-bottom: 1px solid var(--theme);
 }
 
 .main-header {
     background-color: transparent;
-    border-bottom: 1px solid var(--background);
+    border-bottom: 1px solid var(--theme);
 }
 
 /***
@@ -171,9 +175,9 @@ SIDEBAR
 ***/
 
 .side-bar {
-    background-color: var(--background);
+    background-color: var(--theme);
     font-family: 'Outfit', sans-serif;
-    border-right: 1px solid var(--background-alt);
+    border-right: 1px solid var(--theme-two);
 }
 
 .nav-list .nav-list-item .nav-list-expander,
@@ -238,14 +242,14 @@ CODE BLOCK
 
 .highlight,
 pre.highlight {
-    background: var(--background-alt);
+    background: var(--theme-two);
     color: var(--contrast);
 }
 
 :not(pre, figure) > code {
     font-size: 0.9rem;
-    background: var(--background-alt);
-    border: 1px solid var(--background-alt);
+    background: var(--theme-two);
+    border: 1px solid var(--theme-two);
     padding: 2px 4px;
     color: var(--contrast);
 }
@@ -256,7 +260,7 @@ BLOCK QUOTE
 
 .main-content blockquote {
 
-    border-left: 3px solid var(--background-alt);
+    border-left: 3px solid var(--theme-two);
     font-style: italic;
 }
 
@@ -282,7 +286,7 @@ a.search-result *,
 
 .search-results,
 .search-active .search-input {
-    background-color: var(--background-alt);
+    background-color: var(--theme-two);
 }
 
 .search-result-doc .search-result-icon {
@@ -294,7 +298,7 @@ a.search-result *,
 }
 
 .search-result:hover a, .search-result.active a {
-  color: var(--background);
+  color: var(--theme);
 }
 
 /***
@@ -302,7 +306,7 @@ BREADCRUMBS
 ***/
 
 .breadcrumb-nav-list-item::after {
-    color: var(--background-alt);
+    color: var(--theme-two);
 }
 
 /***
@@ -312,13 +316,13 @@ SITE FOOTER
 .site-footer a {
   display: block;
   text-decoration: none;
-  background: var(--background);
+  background: var(--theme);
   color: var(--contrast);
   // box-shadow: var(--shadow-one);
   border-radius: 4px;
   padding: 0.8rem;
   transition: all 0.25s ease-in-out;
-  // border: solid 1.5px var(--background-alt);
+  // border: solid 1.5px var(--theme-two);
 }
 
 .site-footer a:hover {
@@ -352,7 +356,7 @@ PAGE FOOTER
 
 /* Reply button */
 .main-content footer p.text-small.text-grey-dk-100.mb-0 a {
-    background: var(--background);
+    background: var(--theme);
     text-decoration: underline;
     text-decoration-color: var(--highlight-alt);
     color: var(--contrast);
@@ -392,11 +396,11 @@ PAGE FOOTER
 
 
 .text-grey-dk-000 {
-  color: var(--background);
+  color: var(--theme);
 }
 
 a#edit-this-page {
-    color: var(--background-alt2);
+    color: var(--theme-three);
     text-decoration: none;
     border-bottom: solid 1px transparent;
     transition: all 0.25s ease-in-out;
