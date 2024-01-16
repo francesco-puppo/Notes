@@ -1,0 +1,8 @@
+- [[Users prefer to expend as little effort as possible to achieve a given result]]
+- [[People remember an experience based on how they felt at their peak and their end rather than how they felt during the whole experience]]
+- [[People believe that interfaces that look better will work better]]
+- [[Humans can only keep up to 7 items in their working memory at a time]]
+- [[In doing any action, people choose the path of least effort to]]
+- [[Increasing the number of choices, increases the time taken to come to a decision]]
+- Users tend to remember the first and last items of a series with greater accuracy than the items in the middle
+- [[In a group of similar objects, the one that is different from the rest will be remembered by the user]]
